@@ -1,0 +1,1106 @@
+,Marque,Modèle,Puissance fiscale,Transmission,Kilométrage,Mise en circulation,Carrosserie,price,cylindre,Énergie
+0,Peugeot,2008,5,Traction,175000,5.2016,SUV/4x4,35000,1199.0,Essence
+1,Chery,Tiggo 2,6,Traction,45000,5.202,SUV/4x4,49400,998.0,Essence
+2,Volkswagen,Golf 7,5,Traction,145000,6.2013,Berline,46000,1599.0,Essence
+3,Seat,Ibiza,5,Traction,80000,9.202,Citadine,53000,999.0,Essence
+4,Haval,H6,9,Traction,80000,11.2017,SUV/4x4,68000,1500.0,Essence
+5,Peugeot,2008,5,Traction,92000,6.2015,SUV/4x4,45000,1199.0,Essence
+6,Ssangyong,Actyon Sports,7,Propulsion,200000,10.2018,Pick up,50000,2200.0,Diesel
+7,Mercedes-Benz,Classe E,11,Propulsion,188000,9.2011,Berline,63000,1998.0,Essence
+8,Mini,Countryman,7,Traction,105390,9.2011,Berline,46000,1598.0,Essence
+9,Ford,Focus,6,Traction,161000,8.2016,Autres,40000,999.0,Essence
+10,Volkswagen,T-Cross,7,Traction,28,1.2024,SUV/4x4,90000,1000.0,Essence
+11,Haval,H6,9,Traction,77000,3.2021,SUV/4x4,85000,1499.0,Essence
+12,Mini,3 portes,4,Traction,146000,12.2015,Coupé,58000,1198.0,Essence
+13,Fiat,Punto Evo,4,Traction,100000,5.2013,Compacte,24000,899.0,Essence
+14,Ford,Fiesta,6,Traction,204000,2.2017,Coupé,31000,1242.0,Essence
+15,BMW,Série 3,7,Propulsion,202000,9.2015,Berline,63000,900.0,Essence
+16,Fiat,500,4,Traction,37000,5.2021,Citadine,55000,1200.0,Essence
+17,Chevrolet,Cruze,7,Traction,270000,7.2014,Berline,31000,1598.0,Essence
+18,Peugeot,208,4,Traction,82000,12.2019,Citadine,33000,1200.0,Essence
+19,Chevrolet,Sonic,5,Traction,84000,6.2018,Berline,36000,1200.0,Essence
+20,Renault,Fluence,7,Intégrale,173000,9.2013,Berline,40000,1598.0,Essence
+21,BMW,Série 4 Gran Coupé,7,Propulsion,130000,4.2019,Berline,125000,1499.0,Essence
+22,Nissan,Patrol,11,Traction,300000,1.1991,SUV/4x4,27500,2800.0,Diesel
+23,Volkswagen,Polo,5,Traction,64000,11.2019,Citadine,57000,899.0,Essence
+24,Toyota,Aygo,4,Traction,69000,12.202,Compacte,33000,998.0,Essence
+25,Mercedes-Benz,ML,27,Intégrale,180000,11.2,Autres,30000,2979.0,Essence
+26,Ford,C-Max,6,Traction,151000,12.2009,Monospace,23000,1800.0,Diesel
+27,Volkswagen,Golf 5,6,Traction,206000,11.2005,Berline,31500,1400.0,Diesel
+28,Tata,Xenon X2 Simple Cabine,7,Propulsion,64000,5.2017,Utilitaire,31000,2198.0,Diesel
+29,Peugeot,508,7,Traction,230000,1.2014,Berline,39200,1598.0,Essence
+30,BMW,X5,14,Propulsion,104000,5.202,SUV/4x4,295000,2000.0,Diesel
+31,Nissan,Navara,8,Propulsion,248000,7.201,SUV/4x4,55000,2500.0,Diesel
+32,KIA,Sportage,7,Propulsion,118000,9.2019,SUV/4x4,98500,899.0,Diesel
+33,Audi,A4,7,Traction,600000,12.1999,Berline,23000,1896.0,Diesel
+34,Peugeot,307,5,Traction,430000,5.2005,Citadine,18500,1560.0,Diesel
+35,Mitsubishi,Mirage,4,Traction,38000,4.2019,Citadine,35000,1193.0,Essence
+36,Volkswagen,Tiguan,8,Traction,99000,7.202,SUV/4x4,132000,1968.0,Diesel
+37,Ford,Fiesta,5,Propulsion,236000,7.2005,Citadine,18800,1399.0,Essence
+38,Hyundai,Tucson,8,Traction,11000,2.2021,SUV/4x4,110000,1600.0,Essence
+39,Seat,Ibiza,4,Traction,51000,11.2018,Citadine,44000,1000.0,Essence
+40,Chevrolet,Cruze,7,Intégrale,198000,7.2014,Berline,35500,1650.0,Essence
+41,Renault,Clio,5,Traction,104000,12.2018,Citadine,43500,1198.0,Essence
+42,BMW,X1,8,Intégrale,230000,5.2011,SUV/4x4,51000,1995.0,Diesel
+43,BMW,Série 3 coupé,7,Intégrale,144000,12.2009,Coupé,48000,1499.0,Essence
+44,Chery,Tiggo 8 Pro,11,Intégrale,70000,11.2021,SUV/4x4,90000,1598.0,Essence
+45,Mercedes-Benz,CLA,7,Traction,120000,7.2019,Berline,100000,1332.0,Essence
+46,MG,ZS,7,Traction,97000,1.2021,SUV/4x4,68000,1498.0,Essence
+47,KIA,Sportage,10,Traction,276000,11.2018,SUV/4x4,84000,2000.0,Diesel
+48,Seat,Ibiza,4,Traction,160000,5.2018,Citadine,38000,902.0,Essence
+49,Toyota,Prado,11,Intégrale,335000,12.2006,SUV/4x4,109000,3000.0,Diesel
+50,Chery,Tiggo 3X,6,Traction,4000,1.2022,Autres,61000,1000.0,Essence
+51,Seat,Leon,5,Traction,231000,4.2014,Compacte,44000,1200.0,Essence
+52,Ford,Figo,5,Traction,152000,3.2014,Citadine,23000,899.0,Essence
+53,Seat,Ibiza,4,Traction,98000,8.2021,Coupé,47900,999.0,Essence
+54,Opel,Antara,10,Traction,86000,3.201,SUV/4x4,52000,2400.0,Essence
+55,Ford,Ecosport,7,Traction,87000,12.2018,SUV/4x4,63000,998.0,Essence
+56,Citroën,DS3,5,Traction,99000,11.2013,Coupé,30500,1200.0,Essence
+57,KIA,Sportage,10,Traction,115000,12.2016,SUV/4x4,100000,899.0,Diesel
+58,Nissan,Qashqai,7,Traction,72000,7.2017,SUV/4x4,82000,1200.0,Essence
+59,Mahindra,KUV 100,5,Traction,33000,7.2021,Citadine,33000,1198.0,Essence
+60,Geely,GC6,6,Intégrale,70000,1.202,Berline,34000,1498.0,Essence
+61,Citroën,C3,5,Traction,81000,10.2017,Berline,40000,1199.0,Essence
+62,KIA,Picanto,4,Traction,65000,3.2022,Citadine,38500,998.0,Essence
+63,Peugeot,Partner,5,Traction,97000,1.202,Utilitaire,45000,1500.0,Diesel
+64,BMW,Série 2 Active Tourer,6,Intégrale,275000,7.2016,Autres,73000,1496.0,Diesel
+65,Alfa Romeo,Mito,5,Traction,63000,6.2019,Citadine,42000,1368.0,Essence
+66,Seat,Ibiza,4,Traction,98000,7.202,Citadine,52000,999.0,Essence
+67,Hyundai,Accent,6,Traction,10000,3.2022,Berline,74000,1400.0,Essence
+68,Peugeot,208,4,Traction,48000,2.2022,Citadine,42000,1199.0,Essence
+69,Seat,Ateca,8,Traction,47000,8.2021,Compacte,107000,1400.0,Essence
+70,Seat,Ateca,8,Traction,52000,5.2021,SUV/4x4,112000,1400.0,Essence
+71,Mercedes-Benz,Classe C,10,Traction,262578,7.2009,Citadine,52000,2143.0,Diesel
+72,Mahindra,KUV 100,5,Traction,39500,3.2021,Compacte,37500,1198.0,Essence
+73,Suzuki,Celerio Populaire,4,Traction,90000,5.202,Citadine,30500,1000.0,Essence
+74,Ssangyong,Tivoli,7,Traction,80000,3.2019,SUV/4x4,62000,1597.0,Essence
+75,Peugeot,208,5,Traction,90000,12.2015,Citadine,32000,1190.0,Essence
+76,KIA,Sportage,8,Traction,94000,5.2016,SUV/4x4,80500,1591.0,Essence
+77,Peugeot,2008,5,Traction,83000,11.2016,SUV/4x4,49000,1200.0,Essence
+78,Fiat,Doblo,5,Traction,170000,3.202,Autres,25000,1300.0,Diesel
+79,Mercedes-Benz,CLA,7,Traction,133000,7.2013,Berline,74000,1600.0,Essence
+80,Chery,Tiggo 2,6,Traction,66000,9.202,SUV/4x4,46500,1497.0,Essence
+81,BMW,Série 1,6,Propulsion,95000,8.2017,Citadine,62000,1499.0,Essence
+82,Toyota,Corolla,6,Propulsion,80000,3.2021,Citadine,80000,901.0,Essence
+83,Ford,Fiesta,5,Traction,48900,10.2017,Citadine,39000,900.0,Essence
+84,Citroën,C4 Cactus,5,Traction,89000,3.2017,Citadine,44500,1199.0,Essence
+85,Mercedes-Benz,Classe A,7,Traction,187000,12.2012,Citadine,58000,1332.0,Diesel
+86,Volkswagen,Golf 8,6,Intégrale,73000,12.202,Compacte,90000,999.0,Essence
+87,Citroën,C4,6,Traction,200000,6.2012,Berline,29000,1397.0,Essence
+88,Renault,Kadjar,6,Propulsion,110000,11.202,SUV/4x4,80000,1197.0,Diesel
+89,Great Wall,M4,6,Traction,123000,6.2018,SUV/4x4,40000,1497.0,Essence
+90,Lancia,Ypsilon,4,Intégrale,130000,8.2015,Berline,33900,900.0,Essence
+91,BMW,X5,13,Intégrale,165000,8.2015,SUV/4x4,185000,2000.0,Diesel
+92,Mercedes-Benz,Classe C,9,Traction,300000,11.2009,Berline,62000,1799.0,Essence
+93,Mahindra,KUV 100,5,Traction,78000,9.2018,SUV/4x4,31500,900.0,Essence
+94,Mazda,3 sedan,6,Traction,123000,9.2017,Berline,52000,1500.0,Essence
+95,Fiat,Grande Punto,4,Traction,180000,7.2016,Citadine,28000,899.0,Essence
+96,Volkswagen,Tiguan,12,Intégrale,220000,12.2012,SUV/4x4,70000,1984.0,Essence
+97,MG,ZS,7,Traction,39900,9.2022,SUV/4x4,78000,1500.0,Essence
+98,Citroën,C4,6,Traction,110000,7.2014,Compacte,35500,1397.0,Essence
+99,Audi,A3 Berline,8,Traction,20000,6.2022,Berline,140000,1500.0,Essence
+100,Mercedes-Benz,Classe C,9,Traction,243000,6.2009,Berline,55000,1597.0,Essence
+101,Mitsubishi,L200 Double Cabine,10,Traction,600000,10.2006,SUV/4x4,28000,2000.0,Diesel
+102,Mercedes-Benz,GLC,9,Intégrale,250000,4.2016,SUV/4x4,130000,2200.0,Diesel
+103,Renault,Fluence,6,Intégrale,150000,12.2014,Autres,32000,1598.0,Essence
+104,Audi,A4,7,Traction,224000,7.2007,Berline,35500,900.0,Diesel
+105,Mercedes-Benz,Classe C,9,Intégrale,54000,11.2021,Autres,205000,1500.0,Essence
+106,BMW,Série 4 Gran Coupé,7,Propulsion,79000,1.2018,Berline,138000,1499.0,Essence
+107,BMW,Série 3,7,Traction,170000,8.2013,Berline,62500,1598.0,Essence
+108,Dacia,Dokker Van,6,Traction,155000,5.2019,Utilitaire,30000,1461.0,Diesel
+109,Volkswagen,Tiguan,9,Intégrale,260000,10.2009,Berline,45000,1968.0,Diesel
+110,Seat,Leon,6,Traction,138000,9.202,Citadine,60500,1186.0,Essence
+111,BMW,Série 1,7,Intégrale,240000,11.2009,Berline,32800,1300.0,Diesel
+112,Mazda,2,6,Traction,135000,12.2016,Citadine,38000,1496.0,Essence
+113,Alfa Romeo,Mito,5,Traction,43000,7.2019,Coupé,55000,1000.0,Essence
+114,Renault,Laguna,6,Traction,70000,2.2009,Berline,22000,1461.0,Diesel
+115,Volkswagen,Amarok,7,Intégrale,80000,9.2021,SUV/4x4,145000,1968.0,Diesel
+116,Mercedes-Benz,Classe C,11,Traction,330000,4.2003,Berline,26500,4004.0,Essence
+117,Ford,Focus,6,Traction,297000,3.2007,Berline,22000,1600.0,Essence
+118,Volkswagen,Passat,7,Traction,130000,1.2016,Berline,65000,2000.0,Essence
+119,KIA,Sportage,6,Intégrale,75600,2.2019,SUV/4x4,91000,1700.0,Diesel
+120,KIA,Rio 5p,5,Traction,162000,12.2018,Citadine,51000,1395.0,Essence
+121,Honda,CR-V,11,Traction,300000,12.1998,Pick up,22500,1498.0,Essence
+122,Skoda,Octavia,8,Traction,15000,3.2023,Berline,128000,1400.0,Essence
+123,Opel,Corsa,5,Traction,113000,7.2016,Citadine,33000,1229.0,Essence
+124,Audi,A4,7,Traction,60000,8.2011,Berline,60000,1798.0,Essence
+125,Hyundai,Grand i10,5,Traction,96000,9.202,Citadine,40500,1248.0,Essence
+126,Dacia,Sandero Stepway,5,Traction,7000,12.2022,Citadine,59500,999.0,Essence
+127,Citroën,C4,6,Traction,250000,9.2012,Berline,32000,1397.0,Essence
+128,Ford,Fiesta,5,Traction,246000,11.2014,Compacte,27000,899.0,Essence
+129,Ford,C-Max,5,Traction,296000,2.2008,Monospace,23500,1600.0,Diesel
+130,KIA,Sportage,6,Traction,194000,8.2014,SUV/4x4,68000,1599.0,Diesel
+131,MG,ZS,7,Traction,50110,12.2019,SUV/4x4,70000,1498.0,Essence
+132,Volkswagen,Golf 5,5,Propulsion,260000,12.2006,Citadine,32500,1390.0,Essence
+133,Peugeot,3008,9,Traction,30000,1.2022,SUV/4x4,130000,1598.0,Essence
+134,MG,ZS,7,Traction,90000,8.2019,Berline,59000,1498.0,Essence
+135,Jeep,Renegade,7,Traction,22000,1.2023,SUV/4x4,96000,899.0,Essence
+136,Volkswagen,Tiguan,8,Propulsion,106000,2.2019,SUV/4x4,91000,1399.0,Essence
+137,Audi,A3 Sportback,5,Traction,45000,11.2019,Berline,105000,1200.0,Essence
+138,Haval,H2,9,Traction,53000,9.202,Citadine,70000,1497.0,Essence
+139,Seat,Leon SC,6,Traction,144000,10.2015,Coupé,43000,1197.0,Essence
+140,Ford,Fiesta,5,Propulsion,110000,10.2012,Citadine,28000,1250.0,Essence
+141,Fiat,Tipo Berline,6,Traction,121000,3.2018,Berline,34500,1368.0,Essence
+142,KIA,Rio 5p,5,Traction,12000,9.2022,Citadine,67500,1197.0,Essence
+143,Renault,Kadjar,7,Traction,90000,4.2018,SUV/4x4,73000,1200.0,Essence
+144,Fiat,Fiorino,5,Propulsion,26500,3.2022,Utilitaire,39000,1498.0,Diesel
+145,Toyota,Yaris,5,Traction,118000,1.2018,Berline,39000,999.0,Essence
+146,Mercedes-Benz,GLC Coupé,12,Intégrale,116000,1.2019,SUV/4x4,225000,2200.0,Diesel
+147,Toyota,Yaris,4,Traction,63000,8.2018,Compacte,38000,899.0,Essence
+148,Peugeot,2008,5,Traction,87000,7.2019,Autres,60000,1199.0,Essence
+149,Seat,Leon,6,Traction,36667,9.202,Compacte,80000,1200.0,Essence
+150,Cupra,Leon,18,Propulsion,88000,1.202,Berline,115000,1999.0,Essence
+151,KIA,Sportage,7,Traction,95000,3.2019,SUV/4x4,109000,1599.0,Diesel
+152,Volkswagen,Caddy,7,Traction,130000,6.202,Utilitaire,55000,1998.0,Diesel
+153,Mercedes-Benz,Classe C,8,Traction,150000,9.2016,Berline,120000,1899.0,Essence
+154,Audi,A5 Sportback,8,Propulsion,17000,12.2021,Berline,200000,2000.0,Essence
+155,Peugeot,3008,9,Traction,58000,12.2019,SUV/4x4,85000,1600.0,Essence
+156,KIA,Sportage,7,Traction,69000,5.2019,SUV/4x4,98000,1600.0,Diesel
+157,Peugeot,301,5,Traction,190000,12.2014,Berline,24000,1199.0,Essence
+158,Peugeot,301,5,Traction,171000,5.2013,Citadine,21000,899.0,Essence
+159,Hyundai,Grand i10 Sedan,5,Traction,119000,11.2015,Citadine,39500,899.0,Essence
+160,Volkswagen,Käfer,7,Propulsion,100000,1.1972,Berline,15000,1300.0,Essence
+161,Seat,Leon,6,Traction,136000,10.2018,Compacte,60500,1395.0,Essence
+162,Haval,H6,9,Intégrale,60000,7.2019,Autres,85000,1400.0,Essence
+163,Audi,A4,8,Propulsion,199000,1.2018,Berline,75000,1500.0,Essence
+164,Citroën,C3 Aircross,5,Traction,10000,8.2023,SUV/4x4,73500,1199.0,Essence
+165,Chery,Tiggo 3X,6,Traction,18000,5.2023,SUV/4x4,61000,1500.0,Essence
+166,Suzuki,Vitara,6,Traction,83000,11.2018,SUV/4x4,62000,1200.0,Essence
+167,Dacia,Dokker Van,6,Traction,212200,5.2017,Berline,28500,899.0,Diesel
+168,Renault,Kadjar,7,Traction,36500,10.2016,SUV/4x4,70800,1197.0,Essence
+169,Fiat,Siena,5,Intégrale,234000,8.2004,Berline,15500,900.0,Essence
+170,Ford,Ecosport,7,Traction,84000,12.2018,SUV/4x4,67000,998.0,Essence
+171,DFSK,K01H,6,Traction,80000,7.2019,Utilitaire,23000,1310.0,Essence
+172,Ford,Focus,6,Traction,154000,3.201,Coupé,30000,1400.0,Essence
+173,Mercedes-Benz,Classe A,7,Traction,131000,6.2019,Citadine,98000,1332.0,Essence
+174,BMW,Série 5,9,Traction,165000,8.2014,Berline,80000,1592.0,Essence
+175,Chery,Tiggo 3,8,Traction,110000,8.2018,SUV/4x4,43000,1598.0,Essence
+176,Jeep,Compass,12,Intégrale,47000,10.2019,SUV/4x4,140000,2400.0,Essence
+177,Volkswagen,Golf 7,6,Traction,51000,10.2019,Berline,76000,1000.0,Essence
+178,Volkswagen,Passat,7,Traction,265000,5.2009,Berline,31500,1598.0,Essence
+179,BMW,Série 4 Gran Coupé,7,Propulsion,214000,10.2017,Berline,90000,1499.0,Essence
+180,Haval,H6,9,Traction,18000,9.202,SUV/4x4,95000,1600.0,Essence
+181,Ssangyong,Tivoli,7,Traction,86000,6.2017,SUV/4x4,55000,1600.0,Essence
+182,Peugeot,3008,6,Traction,175000,8.2017,SUV/4x4,82000,1560.0,Diesel
+183,Peugeot,2008,5,Traction,137600,10.2016,SUV/4x4,42000,1199.0,Essence
+184,Dacia,Dokker Van,6,Traction,366000,4.2015,Utilitaire,24000,1461.0,Diesel
+185,Toyota,RAV 4,9,Traction,129000,10.2016,SUV/4x4,83000,2000.0,Essence
+186,Mercedes-Benz,Classe C coupé,8,Traction,122000,7.2016,Coupé,138000,1600.0,Essence
+187,Porsche,Cayenne,21,Intégrale,19000,6.2022,SUV/4x4,480000,2998.0,Hybride rechargeable essence
+188,BMW,Série 3,7,Propulsion,130000,10.2016,Autres,79000,899.0,Essence
+189,Honda,City,7,Traction,80000,8.202,Berline,48000,1497.0,Essence
+190,Geely,GC6,6,Intégrale,56000,10.2021,Berline,32000,1498.0,Essence
+191,Chery,Tiggo 2,6,Intégrale,37000,2.202,SUV/4x4,43000,1497.0,Essence
+192,KIA,Sportage,8,Intégrale,73000,8.2019,SUV/4x4,122500,1600.0,Essence
+193,Great Wall,M4,6,Propulsion,90000,6.2018,Citadine,40900,1497.0,Essence
+194,Citroën,DS3,5,Traction,206000,1.2012,Coupé,26900,1397.0,Essence
+195,Ssangyong,Tivoli,7,Traction,155000,2.2016,Autres,55000,1598.0,Essence
+196,Audi,A3 Berline,8,Traction,48000,6.2022,Berline,180508,1395.0,Essence
+197,Ssangyong,Tivoli,7,Traction,125000,8.2016,Autres,53000,999.0,Essence
+198,Renault,Kadjar,7,Traction,110000,12.2018,SUV/4x4,65000,1197.0,Essence
+199,Haval,Jolion,9,Traction,47000,7.2021,SUV/4x4,89000,1497.0,Essence
+200,Audi,A4,8,Propulsion,100000,11.202,Berline,95000,1400.0,Essence
+201,Audi,Q5,10,Traction,190000,3.2012,SUV/4x4,68500,899.0,Diesel
+202,BMW,Série 3,7,Traction,99000,3.201,Coupé,47000,899.0,Essence
+203,KIA,Rio 5p,5,Traction,90000,6.202,Coupé,54000,899.0,Essence
+204,Mercedes-Benz,Classe B,5,Propulsion,109000,10.2014,Monospace,67500,1461.0,Diesel
+205,Nissan,Qashqai,6,Traction,100000,12.2019,SUV/4x4,72000,1200.0,Essence
+206,Ford,Focus,6,Traction,100000,5.2017,Compacte,46000,999.0,Essence
+207,Toyota,C-HR,6,Traction,26000,9.2021,SUV/4x4,90000,899.0,Essence
+208,Ford,Fiesta,5,Traction,230000,11.2012,Citadine,28400,1241.0,Essence
+209,Chevrolet,Cruze,7,Traction,119900,11.2018,Berline,42500,1598.0,Essence
+210,Audi,A4,7,Traction,175000,7.2012,Berline,44000,1798.0,Essence
+211,Honda,City,7,Traction,54000,1.202,Citadine,55000,1499.0,Essence
+212,Geely,GC6,6,Traction,117000,3.2021,Berline,38000,1498.0,Essence
+213,Seat,Arona,6,Traction,75000,8.2018,SUV/4x4,65000,1500.0,Essence
+214,KIA,Sportage,8,Traction,95000,1.2019,SUV/4x4,92000,1596.0,Essence
+215,Toyota,Agya,4,Traction,23000,4.2022,Coupé,33500,1034.0,Essence
+216,Peugeot,Partner,6,Traction,200000,2.2007,Utilitaire,16000,1560.0,Diesel
+217,Haval,H6,9,Traction,64000,11.202,SUV/4x4,89000,1499.0,Essence
+218,Mercedes-Benz,Classe C,11,Traction,181000,6.2014,Berline,74000,1796.0,Essence
+219,MG,GT,6,Traction,103000,3.2017,Berline,39500,1498.0,Essence
+220,Iveco,Daily Fourgon,8,Propulsion,40000,5.2018,Utilitaire,88000,3000.0,Diesel
+221,Mercedes-Benz,Classe C coupé,8,Propulsion,83000,11.2017,Coupé,155000,1600.0,Essence
+222,Land Rover,Discovery Sport,8,Traction,58000,6.2019,SUV/4x4,160000,2000.0,Essence
+223,Dacia,Duster,7,Intégrale,16000,10.2022,SUV/4x4,92000,1499.0,Diesel
+224,Ford,Focus,6,Traction,169000,1.2018,Citadine,45000,900.0,Essence
+225,BMW,Série 5,10,Traction,46000,4.2018,Berline,168000,1597.0,Essence
+226,Citroën,C-Elysée,5,Traction,178000,5.2016,Berline,22000,1199.0,Essence
+227,Audi,A6,12,Traction,350000,11.2012,Berline,58000,3000.0,Essence
+228,Opel,Corsa,4,Traction,220000,5.2005,Citadine,14000,1400.0,Diesel
+229,KIA,Rio 5p,5,Traction,112000,3.202,Citadine,54000,1197.0,Essence
+230,Citroën,C3,5,Traction,80000,10.2018,Citadine,45000,1398.0,Essence
+231,Fiat,Grande Punto,5,Traction,142000,3.2012,Citadine,23000,1242.0,Essence
+232,BMW,Série 3,9,Traction,200000,12.1992,Berline,22000,1796.0,Essence
+233,Volkswagen,Golf 7,6,Propulsion,107000,11.2017,Berline,68000,4000.0,Essence
+234,Citroën,C-Elysée,5,Traction,138000,7.2015,Berline,23000,903.0,Essence
+235,Fiat,Fiorino,5,Traction,299000,2.2017,Utilitaire,22000,1300.0,Diesel
+236,Mercedes-Benz,Classe C,8,Traction,140000,10.2014,Berline,117000,1800.0,Essence
+237,Seat,Ibiza,4,Traction,100000,12.2021,Citadine,45000,1000.0,Essence
+238,Peugeot,207,6,Traction,211000,10.2008,Berline,26000,1400.0,Essence
+239,Hyundai,i20,5,Traction,111000,7.2019,Citadine,42000,1197.0,Essence
+240,Fiat,500,4,Traction,145000,1.2013,Citadine,28500,1200.0,Essence
+241,Volkswagen,Amarok,7,Traction,210000,1.2016,Pick up,85000,2000.0,Diesel
+242,Volkswagen,Golf 7,6,Traction,79000,10.2018,Compacte,75000,899.0,Essence
+243,Nissan,Qashqai+2,6,Traction,214000,5.2012,Autres,42800,1491.0,Diesel
+244,BMW,Série 5,9,Propulsion,62000,5.2017,Berline,153000,1600.0,Essence
+245,Jaguar,XF,16,Propulsion,38800,12.2017,Berline,175000,1997.0,Essence
+246,Ssangyong,Tivoli,7,Traction,38000,11.2015,SUV/4x4,59000,1600.0,Essence
+247,Mercedes-Benz,GLA,9,Traction,81000,9.2021,SUV/4x4,195000,1332.0,Essence
+248,MG,ZS,7,Traction,43000,11.2019,SUV/4x4,62000,1498.0,Essence
+249,Audi,A4,7,Traction,330000,7.2013,Berline,40000,1890.0,Essence
+250,Ford,Focus,7,Traction,97500,9.2017,Autres,50000,999.0,Essence
+251,Abarth,500,8,Traction,138000,8.201,Cabriolet,49500,1368.0,Essence
+252,Volkswagen,Golf 7,6,Traction,89000,8.202,Compacte,75500,1000.0,Essence
+253,Dacia,Dokker Van,6,Traction,159000,5.2018,Utilitaire,29000,1461.0,Diesel
+254,Skoda,Kamiq,6,Traction,27000,12.2022,SUV/4x4,82000,999.0,Essence
+255,BMW,Série 4 Gran Coupé,7,Traction,73000,5.2019,Berline,133000,1500.0,Essence
+256,Tesla,Model 3,6,Propulsion,35000,3.2022,Berline,169000,899.0,Electrique
+257,Toyota,BZ4X,9,Traction,1000,3.2024,SUV/4x4,190000,899.0,Electrique
+258,Chery,QQ,4,Traction,24000,1.2022,Autres,25000,998.0,Essence
+259,Suzuki,Swift,5,Traction,21000,1.2022,Citadine,53500,1197.0,Essence
+260,BMW,Série 3,7,Traction,115000,9.2015,Berline,70500,1600.0,Essence
+261,Renault,Kadjar,7,Traction,80000,12.2017,SUV/4x4,68000,1200.0,Essence
+262,Opel,Astra GTC,5,Traction,300000,11.201,Coupé,22000,1364.0,Essence
+263,MG,ZS,7,Traction,96000,9.2019,SUV/4x4,59000,1498.0,Essence
+264,Peugeot,Partner,5,Traction,112000,10.2019,Utilitaire,45000,1600.0,Diesel
+265,Fiat,Doblo Combi,6,Traction,124000,10.2019,Utilitaire,50000,1400.0,Essence
+266,BMW,X1,7,Traction,120000,5.2017,SUV/4x4,84000,1800.0,Essence
+267,BMW,X6,15,Intégrale,278000,10.201,SUV/4x4,110000,2997.0,Diesel
+268,KIA,Cerato,7,Traction,168000,8.2014,Berline,38000,1591.0,Essence
+269,Mercedes-Benz,Classe C,9,Traction,270000,7.2012,Compacte,64000,899.0,Essence
+270,Peugeot,208,4,Traction,64000,6.202,Citadine,35000,1199.0,Essence
+271,KIA,Picanto,5,Traction,41000,6.2022,Citadine,45000,1197.0,Essence
+272,Audi,A4,8,Traction,132000,8.2017,Berline,65000,1398.0,Essence
+273,KIA,Sportage,6,Traction,70000,9.2018,SUV/4x4,95000,1700.0,Diesel
+274,Seat,Leon,6,Traction,134000,11.2015,Utilitaire,44500,1200.0,Essence
+275,Volkswagen,Golf 6,5,Intégrale,154000,9.2011,Compacte,45000,1400.0,Essence
+276,Toyota,Yaris Sedan,6,Traction,163000,5.2018,Berline,40000,899.0,Essence
+277,Mercedes-Benz,Classe E,10,Intégrale,260000,11.2013,Berline,69000,1991.0,Essence
+278,Mercedes-Benz,Classe C coupé,12,Propulsion,49000,11.2017,Coupé,187000,1991.0,Essence
+279,MG,ZS,7,Traction,95000,6.2019,SUV/4x4,55000,1500.0,Essence
+280,Mercedes-Benz,Classe C,8,Traction,110000,5.2015,Berline,94000,1883.0,Essence
+281,Chery,Tiggo 3,8,Traction,100000,3.2019,SUV/4x4,44000,1600.0,Essence
+282,Seat,Ibiza,4,Traction,106000,12.2021,Citadine,43000,999.0,Essence
+283,Volkswagen,Polo Sedan,5,Traction,200,1.2022,Berline,42000,1400.0,Essence
+284,Suzuki,Celerio,4,Traction,42000,1.2022,Compacte,33500,1000.0,Essence
+285,BMW,Série 5,12,Traction,170000,7.2015,Berline,98000,1900.0,Diesel
+286,Seat,Leon SC,6,Traction,130000,5.2017,Compacte,47000,1200.0,Essence
+287,Peugeot,208,5,Traction,48000,9.2021,Citadine,75680,999.0,Essence
+288,BMW,Série 3,7,Propulsion,211000,9.2015,Berline,64000,1598.0,Essence
+289,Audi,A4,6,Traction,210000,5.2009,Autres,29500,899.0,Essence
+290,Mercedes-Benz,Classe E,9,Traction,46000,11.202,Berline,228000,1599.0,Diesel
+291,KIA,Sportage,8,Traction,23000,3.202,SUV/4x4,110000,1557.0,Essence
+292,Hyundai,i20,5,Traction,86600,12.2016,Citadine,39800,1200.0,Essence
+293,Audi,Q3,8,Traction,111000,4.2017,SUV/4x4,87000,899.0,Essence
+294,Mercedes-Benz,Classe C,8,Propulsion,157000,5.2014,Berline,107000,1800.0,Essence
+295,KIA,Sportage,11,Intégrale,185000,11.2011,SUV/4x4,58000,1998.0,Essence
+296,Renault,Clio,4,Traction,50000,9.2017,Citadine,42000,1149.0,Essence
+297,Volkswagen,Golf 7,5,Traction,48257,7.2019,Citadine,89000,900.0,Essence
+298,Volkswagen,Golf 7,6,Traction,31915,10.2019,Citadine,88000,999.0,Essence
+299,Volkswagen,Golf 8,6,Traction,65786,4.2021,Citadine,148000,1395.0,Essence
+300,Mini,Cooper S,7,Traction,32529,7.202,Coupé,105000,1499.0,Essence
+301,Dacia,Sandero,6,Propulsion,36746,10.2019,Autres,56000,1198.0,Essence
+302,Hyundai,i20,5,Traction,63386,7.2022,Compacte,70000,998.0,Essence
+303,Peugeot,3008,9,Intégrale,75822,2.2022,SUV/4x4,120000,1598.0,Essence
+304,Peugeot,508,7,Intégrale,97059,3.2019,SUV/4x4,98000,1499.0,Diesel
+305,Mercedes-Benz,Classe E,11,Traction,253557,3.2012,Berline,67000,1796.0,Essence
+306,Volkswagen,Golf 8,6,Propulsion,53080,8.2021,Citadine,112000,999.0,Essence
+307,KIA,Rio 5p,5,Propulsion,46735,6.2019,Citadine,68000,1248.0,Essence
+308,Volkswagen,Golf 7,6,Propulsion,72044,11.2019,Citadine,79000,999.0,Essence
+309,Volkswagen,Golf 7,6,Traction,111147,5.2019,Compacte,75000,999.0,Essence
+310,BMW,Série 4 Coupé,10,Propulsion,158000,1.2015,Berline,109000,1000.0,Essence
+311,Volkswagen,Polo,4,Propulsion,33062,3.2021,Citadine,63000,999.0,Essence
+312,Mercedes-Benz,Classe A,7,Traction,217000,2.2014,Berline,52000,1796.0,Diesel
+313,Peugeot,Boxer,7,Traction,200000,12.2009,Monospace,25000,2198.0,Diesel
+314,Volkswagen,Polo,4,Traction,405000,10.2015,Citadine,32500,999.0,Essence
+315,Citroën,C4,6,Traction,217000,6.2009,Coupé,23000,1400.0,Essence
+316,Audi,Q2,6,Traction,79000,1.2018,SUV/4x4,85000,1000.0,Essence
+317,Lada,Niva,7,Intégrale,8000,6.2021,SUV/4x4,44000,1700.0,Essence
+318,Renault,Captur,5,Traction,48000,10.2019,SUV/4x4,62500,1000.0,Essence
+319,Renault,Fluence,7,Traction,205000,11.2012,Berline,27300,1598.0,Essence
+320,Peugeot,207,4,Traction,290000,4.2009,Compacte,23100,1398.0,Diesel
+321,Dacia,Dokker Van,6,Propulsion,85900,3.2018,Autres,33000,1461.0,Diesel
+322,Land Rover,Range Rover Velar,20,Intégrale,50000,10.2018,SUV/4x4,290000,1999.0,Essence
+323,Smart,ForTwo,5,Propulsion,60000,6.2018,Cabriolet,60000,899.0,Essence
+324,Fiat,Doblo Maxi,5,Traction,255000,10.2014,Monospace,33000,1300.0,Diesel
+325,Audi,Q2,6,Traction,220000,12.2018,SUV/4x4,76000,999.0,Essence
+326,Citroën,C3,5,Traction,143000,10.2006,Autres,22000,1124.0,Essence
+327,Volkswagen,Golf 7,5,Traction,162000,1.2014,Compacte,49000,1197.0,Essence
+328,Mercedes-Benz,Classe C,10,Propulsion,24000,4.2022,Berline,195000,1500.0,Hybride essence
+329,Mercedes-Benz,Classe C,9,Traction,195000,10.2009,Berline,56000,1597.0,Essence
+330,KIA,Picanto,5,Propulsion,55000,6.2018,Citadine,46000,1198.0,Essence
+331,Volkswagen,Jetta,7,Traction,233000,10.201,Berline,33000,1598.0,Essence
+332,Citroën,C4,6,Intégrale,325000,10.201,Compacte,28000,1360.0,Essence
+333,Volkswagen,Golf 7,5,Traction,15000,11.2014,Compacte,58000,1197.0,Essence
+334,Volkswagen,Golf 8,8,Traction,170000,12.2021,Berline,137500,1958.0,Diesel
+335,Land Rover,Range Rover Sport,23,Intégrale,139000,12.2015,SUV/4x4,200000,3000.0,Essence
+336,Chery,QQ,4,Traction,11800,1.2017,Citadine,25300,998.0,Essence
+337,Peugeot,208,5,Traction,120000,9.2019,Citadine,33900,1199.0,Essence
+338,Volkswagen,Tiguan,8,Traction,63000,1.2018,SUV/4x4,95000,1400.0,Essence
+339,Mercedes-Benz,Classe A,8,Traction,45000,6.202,Coupé,145000,1300.0,Essence
+340,Peugeot,207,6,Traction,224000,11.201,Compacte,25000,1560.0,Essence
+341,Jaguar,XF,16,Traction,249000,8.201,Berline,37000,2999.0,Essence
+342,Mahindra,XUV 300,6,Traction,5000,6.2023,SUV/4x4,62000,1197.0,Essence
+343,Renault,Symbol,5,Traction,208000,5.2014,Citadine,24000,1149.0,Essence
+344,Peugeot,3008,7,Traction,170000,2.202,SUV/4x4,70000,1495.0,Essence
+345,Volkswagen,Golf 7,6,Traction,112000,12.2019,Berline,71000,1400.0,Diesel
+346,Peugeot,2008,6,Traction,147000,11.2017,SUV/4x4,45500,1200.0,Essence
+347,Honda,City,7,Traction,62000,1.2021,Citadine,57000,1500.0,Essence
+348,Mercedes-Benz,Classe E,9,Traction,148000,1.2018,Berline,130000,1595.0,Essence
+349,Mercedes-Benz,Classe A,7,Traction,140000,10.2014,Berline,68500,1595.0,Essence
+350,Ssangyong,XLV,7,Propulsion,190000,10.2017,SUV/4x4,53000,1597.0,Essence
+351,Nissan,Navara,8,Traction,203000,1.201,Pick up,57000,2488.0,Diesel
+352,Peugeot,208,5,Traction,88000,8.2021,Citadine,44900,1200.0,Essence
+353,Great Wall,M4,6,Traction,94000,9.2017,SUV/4x4,41000,1497.0,Essence
+354,BMW,Série 3,7,Propulsion,80000,1.2014,Berline,60000,1700.0,Essence
+355,Renault,Clio,5,Traction,67000,5.2014,Citadine,42000,1149.0,Essence
+356,Ford,Ecosport,7,Traction,7000,8.2023,SUV/4x4,84500,1000.0,Essence
+357,Mercedes-Benz,Classe E,12,Propulsion,160000,6.2012,Berline,63000,1800.0,Essence
+358,Mahindra,KUV 100,5,Traction,90000,5.2019,Autres,29000,1200.0,Essence
+359,Renault,Captur,5,Traction,39870,12.2019,SUV/4x4,64500,1098.0,Essence
+360,Renault,Clio,5,Traction,40000,9.2021,Berline,44500,898.0,Essence
+361,Volkswagen,Golf 7,5,Traction,180000,12.2018,Berline,70000,1600.0,Diesel
+362,Seat,Ibiza,4,Traction,97000,7.2018,Compacte,44000,999.0,Essence
+363,Mercedes-Benz,Classe E coupé,11,Propulsion,111000,4.2018,Coupé,185000,1991.0,Essence
+364,Jeep,Compass,10,Intégrale,130000,2.2016,SUV/4x4,63000,1368.0,Essence
+365,Seat,Ibiza,4,Traction,28000,10.2021,Autres,73336,1300.0,Essence
+366,Land Rover,Range Rover Evoque,8,Intégrale,80500,5.2019,SUV/4x4,205000,1999.0,Diesel
+367,BMW,X3,9,Traction,270000,5.2015,SUV/4x4,75000,1600.0,Essence
+368,Mercedes-Benz,Classe C,9,Traction,177000,5.2013,Berline,73000,1595.0,Essence
+369,Volkswagen,Golf 8,6,Traction,38000,9.2021,Compacte,95000,1000.0,Essence
+370,Seat,Ibiza,4,Traction,64000,10.202,Citadine,62000,1000.0,Essence
+371,Peugeot,301,5,Traction,155000,6.2014,Berline,19000,899.0,Essence
+372,Peugeot,301,5,Traction,100000,2.2019,Berline,28000,1198.0,Essence
+373,BMW,Série 3,7,Traction,150000,3.2014,Berline,70000,1598.0,Essence
+374,Seat,Arona,6,Traction,65000,11.202,SUV/4x4,70000,1600.0,Essence
+375,Mahindra,KUV 100,5,Traction,98000,2.202,SUV/4x4,31000,6000.0,Essence
+376,Renault,Clio,4,Traction,34000,3.2019,Citadine,47000,899.0,Essence
+377,Mercedes-Benz,GLA,7,Traction,97000,7.2015,SUV/4x4,95000,1595.0,Essence
+378,Citroën,C1,4,Traction,77885,4.2013,Citadine,24000,998.0,Essence
+379,Infiniti,FX,20,Intégrale,170000,7.2009,SUV/4x4,50000,3500.0,Essence
+380,BMW,Série 3,7,Propulsion,182000,4.2015,Berline,78000,1598.0,Essence
+381,BAIC YX,Kenbo S2,7,Traction,62000,5.2018,SUV/4x4,42300,1498.0,Essence
+382,Land Rover,Range Rover Evoque,11,Traction,88000,10.2019,SUV/4x4,179500,1997.0,Hybride diesel
+383,Mercedes-Benz,Classe E,9,Traction,327000,1.2006,Berline,45000,2148.0,Diesel
+384,BMW,Série 3,10,Propulsion,130000,9.2013,Berline,82500,2000.0,Essence
+385,Chery,QQ,4,Traction,55000,8.202,Citadine,24000,998.0,Essence
+386,Hyundai,i10,5,Traction,131000,3.2018,Citadine,36000,4000.0,Essence
+387,BMW,Série 3,7,Propulsion,135000,7.2015,Berline,71000,1600.0,Essence
+388,Suzuki,Swift,5,Traction,29000,10.202,Citadine,47000,1400.0,Essence
+389,Renault,Captur,6,Traction,142000,7.2014,SUV/4x4,35000,999.0,Essence
+390,Mercedes-Benz,Classe A,6,Traction,80000,3.2017,Compacte,81000,1595.0,Essence
+391,Audi,Q7,16,Intégrale,260000,4.2007,SUV/4x4,45000,3000.0,Diesel
+392,KIA,Rio 5p,5,Traction,88000,3.2019,Citadine,54000,1199.0,Essence
+393,KIA,Sportage,10,Intégrale,277000,10.201,SUV/4x4,48000,1995.0,Diesel
+394,Jaguar,XJ,16,Traction,190000,11.2016,Berline,160000,1999.0,Essence
+395,Mazda,3,6,Traction,110000,5.2015,Coupé,48000,1500.0,Essence
+396,Mazda,2 Sedan,6,Traction,115000,4.2017,Berline,46000,899.0,Essence
+397,Mazda,6,9,Traction,141000,3.2016,Berline,58000,1998.0,Essence
+398,Nissan,Qashqai,6,Traction,29000,3.2018,SUV/4x4,100000,900.0,Essence
+399,Mercedes-Benz,Classe C coupé,8,Traction,153000,1.2017,Coupé,130000,1800.0,Essence
+400,Land Rover,Range Rover Velar,11,Propulsion,103000,2.202,SUV/4x4,270000,2000.0,Diesel
+401,BMW,Série 2 Gran Coupé,8,Traction,49000,2.2023,Berline,145000,1500.0,Essence
+402,BMW,X3,10,Intégrale,214995,10.2012,SUV/4x4,41000,899.0,Diesel
+403,BMW,X1,12,Intégrale,152000,6.2011,SUV/4x4,35000,899.0,Diesel
+404,BMW,Série 3,10,Traction,250000,4.2014,Berline,77000,2000.0,Essence
+405,Fiat,Punto,5,Traction,240000,8.2011,Coupé,18800,1242.0,Essence
+406,BMW,Série 4 Gran Coupé,7,Propulsion,82000,4.2019,Coupé,124000,1500.0,Essence
+407,Audi,Q2,6,Traction,85000,7.2018,SUV/4x4,80000,999.0,Essence
+408,Seat,Ibiza,6,Traction,90000,7.202,Compacte,68000,1598.0,Essence
+409,Seat,Leon,6,Traction,145000,9.202,Compacte,60000,1197.0,Essence
+410,Honda,City,7,Traction,110000,3.2017,Berline,45000,1500.0,Essence
+411,Mercedes-Benz,Classe E coupé,11,Propulsion,74000,8.2011,Coupé,85000,1800.0,Essence
+412,Seat,Leon SC,6,Traction,167000,8.2017,Coupé,49200,1197.0,Essence
+413,BMW,Série 4 Gran Coupé,7,Traction,66000,10.202,Berline,138000,1600.0,Essence
+414,Ford,Fiesta,5,Traction,106000,5.2017,Citadine,36500,999.0,Essence
+415,BMW,X5,19,Traction,252000,8.2008,SUV/4x4,97000,2993.0,Diesel
+416,Renault,Duster,5,Propulsion,170000,1.2013,Autres,36000,1461.0,Essence
+417,Volvo,S60,9,Traction,170000,8.2012,Berline,44000,1600.0,Essence
+418,KIA,Rio 5p,5,Intégrale,32000,9.2021,Coupé,56000,1197.0,Essence
+419,Mazda,2,6,Traction,180000,10.2016,Coupé,36800,4000.0,Essence
+420,Mazda,CX-9,20,Intégrale,272000,8.201,SUV/4x4,58500,3700.0,Essence
+421,KIA,Picanto,4,Traction,44000,5.2021,Citadine,38500,899.0,Essence
+422,Seat,Leon,6,Traction,141000,5.2017,Compacte,50000,1197.0,Essence
+423,Seat,Ibiza,6,Traction,4500,7.2023,Citadine,75000,1000.0,Essence
+424,KIA,Rio Berline,5,Traction,174000,8.2013,Berline,32500,1200.0,Essence
+425,Volkswagen,Touareg,12,Traction,180000,12.2003,SUV/4x4,32000,2400.0,Diesel
+426,Chery,Tiggo 2,6,Traction,137000,1.202,SUV/4x4,43000,1199.0,Essence
+427,Audi,Q2,6,Traction,76000,8.2018,SUV/4x4,82000,999.0,Essence
+428,Land Rover,Range Rover Sport,28,Traction,0,2.2024,SUV/4x4,748000,3000.0,Hybride rechargeable essence
+429,Land Rover,Defender 110,12,Traction,1,3.2024,SUV/4x4,496000,2000.0,Diesel
+430,Citroën,Berlingo Utilitaire,6,Intégrale,257000,5.2003,Autres,28500,1299.0,Essence
+431,Peugeot,406,7,Traction,247000,7.2003,Berline,19800,999.0,Essence
+432,Renault,Clio,4,Propulsion,58000,3.2021,Citadine,42500,898.0,Essence
+433,Suzuki,Swift,5,Traction,11800,1.2023,Citadine,49500,1200.0,Essence
+434,Mahindra,KUV 100,5,Traction,20600,2.2019,Citadine,35000,1193.0,Essence
+435,Volkswagen,Golf 7,5,Traction,158000,10.2014,Citadine,55000,1197.0,Essence
+436,Toyota,C-HR,6,Traction,79000,2.202,SUV/4x4,87000,1200.0,Essence
+437,Mazda,2,6,Traction,200000,8.2015,Citadine,35000,1500.0,Essence
+438,Hyundai,Tucson,8,Traction,85000,3.2021,SUV/4x4,90000,899.0,Essence
+439,Mercedes-Benz,Classe C,9,Intégrale,129000,9.201,Compacte,59000,999.0,Essence
+440,Mercedes-Benz,Classe C,9,Intégrale,62000,9.2019,Compacte,180000,999.0,Essence
+441,Citroën,C-Elysée,5,Traction,126000,4.2018,Berline,28000,1199.0,Essence
+442,Mercedes-Benz,Classe A,8,Traction,60000,3.2019,Citadine,145000,1300.0,Essence
+443,Volkswagen,Golf 7,6,Propulsion,181000,5.2015,Compacte,53000,1200.0,Essence
+444,Mercedes-Benz,Classe C,9,Propulsion,133000,4.2014,Berline,120000,2200.0,Diesel
+445,Volkswagen,Golf 6,5,Intégrale,240000,10.2012,Autres,39000,1598.0,Diesel
+446,Citroën,C4,6,Traction,182000,9.2012,Berline,29000,1397.0,Essence
+447,Fiat,Grande Punto,4,Traction,141000,4.2016,Citadine,28700,1242.0,Essence
+448,KIA,Sorento,12,Intégrale,180000,11.2015,SUV/4x4,75000,2199.0,Diesel
+449,Volkswagen,Polo Sedan,5,Traction,105000,12.2018,Berline,42500,1400.0,Essence
+450,BMW,X4,11,Traction,100000,1.2021,SUV/4x4,290000,1998.0,Essence
+451,Ford,Focus,6,Traction,222000,6.2011,Coupé,27000,1400.0,Essence
+452,Mercedes-Benz,Classe C,9,Traction,194000,5.2011,Berline,67000,1800.0,Essence
+453,Volkswagen,Tiguan,12,Propulsion,92300,11.2018,SUV/4x4,90000,2000.0,Essence
+454,Hyundai,Grand i10,5,Traction,190000,7.2015,Citadine,23500,1248.0,Essence
+455,Ford,Focus,7,Traction,185000,6.2014,Berline,35000,1596.0,Essence
+456,Audi,A3 Sportback,5,Traction,144000,1.2015,Citadine,62000,1600.0,Essence
+457,Mercedes-Benz,Classe C,7,Traction,137000,12.2012,Citadine,57500,2143.0,Diesel
+458,Land Rover,Range Rover Evoque,15,Traction,116000,8.2013,SUV/4x4,103000,2999.0,Essence
+459,Mini,3 portes,4,Traction,176000,9.201,Compacte,36000,7000.0,Essence
+460,Seat,Leon SC,6,Traction,162000,5.2017,Compacte,46500,1200.0,Essence
+461,Ford,Ecosport,7,Propulsion,125000,10.2019,SUV/4x4,60000,998.0,Essence
+462,Suzuki,Baleno,5,Traction,58000,12.2018,Berline,48000,1200.0,Essence
+463,Peugeot,Expert,7,Intégrale,295000,1.2019,Utilitaire,52000,899.0,Diesel
+464,BMW,Série 5,10,Propulsion,15000,2.2023,Berline,255000,1597.0,Essence
+465,Volkswagen,Polo,4,Traction,156000,10.201,Citadine,28500,1200.0,Essence
+466,Renault,Clio,5,Traction,53000,3.2019,Citadine,45000,1149.0,Essence
+467,Porsche,Cayenne,30,Traction,142000,9.2011,SUV/4x4,179000,4300.0,Essence
+468,Nissan,Qashqai,6,Propulsion,57000,9.2019,SUV/4x4,85000,900.0,Essence
+469,Volvo,XC40,9,Traction,36000,4.2022,SUV/4x4,148000,1500.0,Essence
+470,Volkswagen,Golf 8,8,Traction,58000,2.2021,Citadine,135000,1968.0,Diesel
+471,Volkswagen,Golf 8,8,Traction,44500,10.2021,Compacte,149000,1499.0,Hybride essence
+472,KIA,Sportage,11,Traction,65000,8.202,SUV/4x4,131000,4000.0,Hybride diesel
+473,Ford,Ranger,11,Intégrale,120000,5.2016,SUV/4x4,120000,3200.0,Diesel
+474,Dacia,Duster,6,Intégrale,286000,12.2011,SUV/4x4,38000,1500.0,Diesel
+475,Volkswagen,Caddy,5,Traction,162000,4.2017,Utilitaire,44000,1598.0,Diesel
+476,Peugeot,206,4,Traction,183000,12.2005,Citadine,19000,899.0,Essence
+477,Mercedes-Benz,Classe E,15,Propulsion,375000,7.2009,Berline,65000,2996.0,Essence
+478,BMW,Série 3,13,Propulsion,200000,3.2007,Berline,36500,3000.0,Essence
+479,Suzuki,Swift,5,Propulsion,133000,12.2018,Citadine,33000,900.0,Essence
+480,Opel,Astra,6,Intégrale,128000,9.2019,Autres,53500,1360.0,Diesel
+481,BMW,Série 1,7,Propulsion,90000,3.2016,Coupé,70000,1499.0,Essence
+482,Seat,Ibiza,6,Traction,107000,7.202,Citadine,68000,1599.0,Essence
+483,Toyota,RAV 4,9,Traction,39000,2.2021,SUV/4x4,135000,1987.0,Essence
+484,Mercedes-Benz,Classe GL,23,Intégrale,370000,1.2007,SUV/4x4,95000,3999.0,Diesel
+485,Volkswagen,Golf 7,7,Traction,80000,3.2019,Compacte,75000,1000.0,Essence
+486,MG,ZS,7,Traction,60000,3.2021,SUV/4x4,63000,1499.0,Essence
+487,Mercedes-Benz,Classe C,9,Traction,130000,10.2017,Berline,108000,1595.0,Essence
+488,BMW,X1,8,Traction,20000,9.2018,Citadine,144000,1498.0,Essence
+489,Renault,Megane,7,Traction,60000,8.202,Citadine,60000,1149.0,Essence
+490,KIA,Sportage,8,Traction,100000,12.2016,SUV/4x4,77000,1598.0,Essence
+491,Mercedes-Benz,Classe A,9,Traction,99000,1.2019,Berline,130000,1498.0,Essence
+492,BMW,Série 5,10,Traction,100000,1.2018,Berline,148000,1998.0,Essence
+493,Chevrolet,Malibu,12,Traction,93000,4.2012,Berline,32000,1700.0,Essence
+494,Citroën,C3,5,Intégrale,166000,12.201,Citadine,25000,1124.0,Essence
+495,Peugeot,206+,4,Traction,175000,9.2012,Citadine,24500,1011.0,Essence
+496,Mini,Coupé,5,Traction,138000,9.2009,Compacte,28500,900.0,Essence
+497,Renault,Symbol,5,Traction,44000,11.2018,Berline,42000,1400.0,Essence
+498,Hyundai,i20,5,Traction,147000,11.2016,Berline,42000,1197.0,Essence
+499,Citroën,DS3,5,Traction,124000,12.2014,Coupé,30000,1199.0,Essence
+500,Peugeot,4008,9,Intégrale,110000,2.2014,SUV/4x4,50000,1998.0,Essence
+501,Volkswagen,Golf 7,6,Traction,90000,11.202,Citadine,77000,1199.0,Essence
+502,Hyundai,Kona,11,Intégrale,25000,6.2022,SUV/4x4,110000,1597.0,Essence
+503,Seat,Leon,6,Traction,183000,11.2019,Citadine,52000,1197.0,Essence
+504,Peugeot,4008,9,Traction,90000,2.2014,SUV/4x4,52000,2000.0,Essence
+505,Volkswagen,Tiguan,8,Traction,65000,8.2019,SUV/4x4,80000,1498.0,Essence
+506,Ford,Fiesta,5,Traction,181000,8.2011,Citadine,27000,1250.0,Essence
+507,KIA,Rio 5p,5,Traction,50000,6.2021,Compacte,68000,1200.0,Essence
+508,Land Rover,Freelander,16,Intégrale,297000,2.2015,SUV/4x4,55000,1998.0,Essence
+509,Renault,Clio,5,Traction,75000,6.202,Coupé,57000,999.0,Essence
+510,KIA,Rio 5p,6,Traction,74000,1.2021,Berline,51000,1200.0,Essence
+511,Mahindra,KUV 100,5,Traction,13990,1.202,Compacte,36000,1200.0,Essence
+512,Chevrolet,Cruze,7,Traction,109000,4.2017,Citadine,35500,1598.0,Essence
+513,Seat,Leon,6,Traction,140000,5.2016,Coupé,46000,1200.0,Essence
+514,Mercedes-Benz,Classe A,6,Traction,75000,9.2017,Compacte,89000,1600.0,Essence
+515,Opel,Astra,6,Traction,81000,8.2019,Compacte,59500,3000.0,Essence
+516,Ssangyong,Tivoli,6,Traction,60000,3.2021,SUV/4x4,64000,1200.0,Essence
+517,Mercedes-Benz,ML,15,Intégrale,160000,6.2009,SUV/4x4,90000,3000.0,Diesel
+518,BMW,Série 3,7,Traction,220000,8.2012,Berline,65000,1995.0,Diesel
+519,Hyundai,Tucson,10,Intégrale,33000,1.2023,SUV/4x4,108000,1598.0,Essence
+520,Peugeot,301,5,Traction,109400,3.2015,Berline,27500,1199.0,Essence
+521,Jeep,Compass,8,Intégrale,240000,3.2007,SUV/4x4,32500,1999.0,Diesel
+522,Volkswagen,Golf 7,4,Traction,104000,9.2017,Citadine,58000,999.0,Essence
+523,Citroën,C5 Aircross,10,Intégrale,97000,9.2019,Autres,80000,3000.0,Essence
+524,Ford,Focus,6,Traction,83000,1.2019,Berline,52000,899.0,Essence
+525,Fiat,Punto,5,Traction,232000,12.2008,Citadine,17700,1250.0,Essence
+526,Mercedes-Benz,Classe C,8,Traction,63000,10.202,Citadine,158000,1600.0,Essence
+527,Volkswagen,Golf 7,5,Traction,233000,1.2015,Compacte,52000,1600.0,Diesel
+528,Fiat,Palio,4,Traction,88000,7.201,Citadine,20100,999.0,Essence
+529,Mercedes-Benz,GLC Coupé,17,Intégrale,75000,11.202,SUV/4x4,200000,1991.0,Essence
+530,BMW,Série 1,7,Propulsion,99000,9.2019,Compacte,85000,1800.0,Essence
+531,Nissan,Qashqai,6,Traction,302000,12.2011,SUV/4x4,49000,1499.0,Diesel
+532,Mercedes-Benz,Classe C,7,Traction,62000,8.2019,Berline,120000,1595.0,Essence
+533,Volkswagen,Golf 8,6,Traction,13000,1.2023,Berline,112000,999.0,Essence
+534,MG,GT,6,Traction,154000,3.2018,Berline,38500,1498.0,Essence
+535,Volkswagen,Golf 7,7,Traction,85000,1.2019,Citadine,89000,1500.0,Essence
+536,Mercedes-Benz,Classe C,8,Traction,90000,1.2019,Citadine,148000,1600.0,Essence
+537,Land Rover,Range Rover Velar,14,Intégrale,83000,7.2018,SUV/4x4,258000,2000.0,Diesel
+538,Lada,Niva,7,Propulsion,89000,7.2018,SUV/4x4,31000,1500.0,Essence
+539,Porsche,Panamera,20,Propulsion,203000,3.2012,Citadine,168000,3000.0,Essence
+540,Volkswagen,T-Cross,6,Traction,4000,12.2023,SUV/4x4,75853,999.0,Essence
+541,Mercedes-Benz,GLA,7,Traction,43000,7.2022,SUV/4x4,185000,1500.0,Essence
+542,Land Rover,Range Rover Evoque,9,Intégrale,67000,1.202,SUV/4x4,219000,2000.0,Hybride diesel
+543,Volkswagen,Passat,6,Traction,161000,7.2019,Citadine,82000,1600.0,Diesel
+544,Mercedes-Benz,Classe C,8,Traction,185000,9.2016,Berline,98000,1600.0,Essence
+545,Nissan,Qashqai,6,Traction,22000,5.2022,SUV/4x4,147000,1500.0,Hybride essence
+546,Nissan,Juke,6,Traction,40000,1.2021,SUV/4x4,95000,1000.0,Essence
+547,Mercedes-Benz,Classe C,12,Intégrale,15000,6.2022,Berline,248000,1500.0,Hybride essence
+548,Volkswagen,Tiguan,8,Traction,160000,11.2018,SUV/4x4,120000,1395.0,Essence
+549,Audi,A4,7,Traction,187000,5.2013,Berline,46000,1800.0,Essence
+550,Audi,A3 Berline,5,Traction,220000,2.2013,Compacte,49000,1300.0,Essence
+551,Mercedes-Benz,Classe E,9,Traction,130000,2.2018,Berline,133000,1600.0,Essence
+552,Seat,Ibiza,4,Traction,40000,8.2021,Citadine,52000,899.0,Essence
+553,KIA,Rio 5p,5,Traction,66000,6.2021,Berline,64500,1298.0,Essence
+554,Volkswagen,Polo,4,Traction,86000,1.202,Citadine,41500,1299.0,Essence
+555,Mercedes-Benz,Classe A,6,Traction,120000,10.2015,Citadine,72000,899.0,Essence
+556,Hyundai,i20,5,Traction,154100,7.202,Berline,44000,1197.0,Essence
+557,Hyundai,i10,5,Traction,169000,7.202,Berline,32000,1248.0,Essence
+558,Hyundai,Solaris,6,Traction,163000,3.2017,Berline,35000,1400.0,Essence
+559,Mitsubishi,Mirage,4,Propulsion,130000,7.2014,Citadine,29000,1200.0,Essence
+560,Lada,Niva,7,Intégrale,100000,3.2018,SUV/4x4,30000,1690.0,Essence
+561,Fiat,500 C,6,Traction,143000,7.2013,Cabriolet,38000,1400.0,Essence
+562,Volkswagen,Golf 8,6,Traction,12000,1.2021,Compacte,109000,1000.0,Essence
+563,Alfa Romeo,Giulietta,7,Propulsion,30000,5.2019,Compacte,75000,1400.0,Essence
+564,Ssangyong,Tivoli,7,Traction,85000,1.2018,SUV/4x4,54000,1600.0,Essence
+565,KIA,Picanto,5,Traction,78000,4.202,Citadine,37500,1200.0,Essence
+566,Mercedes-Benz,Classe C,8,Traction,186000,2.2015,Autres,105000,921.0,Essence
+567,Haval,H2,9,Traction,67000,12.2017,SUV/4x4,62000,1750.0,Essence
+568,Tesla,Model 3,9,Propulsion,29990,7.2023,Berline,180000,2000.0,Electrique
+569,Peugeot,208,4,Traction,70000,11.202,Citadine,70000,1200.0,Electrique
+570,Audi,A3 Sportback,8,Traction,25000,2.2023,Berline,155000,1500.0,Essence
+571,Peugeot,3008,7,Traction,71000,11.2019,SUV/4x4,89000,1200.0,Essence
+572,Mazda,CX-5,9,Intégrale,53000,3.2019,SUV/4x4,115000,2000.0,Essence
+573,Volkswagen,Golf 7,6,Traction,100000,3.202,Coupé,76000,999.0,Essence
+574,Volkswagen,Jetta,6,Traction,125000,9.2013,Berline,39500,1600.0,Essence
+575,Fiat,500,4,Traction,82000,10.2016,Coupé,43500,1200.0,Essence
+576,Seat,Arona,6,Traction,50000,1.2022,SUV/4x4,76000,1595.0,Essence
+577,Peugeot,Boxer,7,Traction,200100,6.2007,Utilitaire,19800,1219.0,Diesel
+578,Mercedes-Benz,Classe A,6,Traction,70000,3.2019,Compacte,123000,1500.0,Diesel
+579,Peugeot,3008,8,Traction,78000,6.2019,SUV/4x4,76000,1600.0,Essence
+580,Chery,Tiggo 2,6,Traction,33000,9.202,SUV/4x4,47000,1500.0,Essence
+581,Great Wall,M4,6,Traction,36000,2.2021,Autres,47000,1000.0,Essence
+582,Renault,Clio,5,Traction,63000,1.2021,Compacte,42000,3000.0,Essence
+583,Mercedes-Benz,Classe C,9,Propulsion,210000,1.201,Berline,52000,1600.0,Essence
+584,Volkswagen,Touareg,16,Traction,170000,1.2009,SUV/4x4,72000,3000.0,Diesel
+585,Mercedes-Benz,Classe C,8,Propulsion,160000,1.2015,Berline,106000,1600.0,Essence
+586,Toyota,C-HR,6,Traction,120000,1.2018,SUV/4x4,65500,1200.0,Essence
+587,Volkswagen,Caddy,5,Traction,133000,1.202,Utilitaire,51000,1600.0,Diesel
+588,Seat,Ibiza,4,Traction,40000,2.2022,Compacte,64000,1000.0,Essence
+589,KIA,Sorento,12,Traction,120000,1.2016,SUV/4x4,95000,2200.0,Diesel
+590,KIA,Sportage,10,Traction,140000,1.2018,SUV/4x4,125000,2000.0,Diesel
+591,Mitsubishi,Pajero,11,Propulsion,144000,10.2014,SUV/4x4,118000,2800.0,Diesel
+592,Volkswagen,Polo,4,Traction,95000,5.2021,Citadine,54000,1000.0,Essence
+593,Land Rover,Range Rover,15,Traction,97000,1.2014,SUV/4x4,110000,2000.0,Essence
+594,Volkswagen,Scirocco,9,Traction,60000,1.201,Coupé,44000,1400.0,Essence
+595,BMW,Série 7,8,Propulsion,10000,5.2019,Berline,290000,2000.0,Essence
+596,DS,5,6,Traction,260000,1.2012,Citadine,44000,1600.0,Diesel
+597,Mahindra,KUV 100,5,Traction,56000,9.202,SUV/4x4,34500,1198.0,Essence
+598,Fiat,500,6,Traction,135000,6.2013,Coupé,37000,1500.0,Essence
+599,Ford,Focus,6,Traction,128000,10.2007,Citadine,24000,903.0,Essence
+600,Land Rover,Range Rover Sport,32,Intégrale,150000,12.2009,SUV/4x4,65000,4199.0,Essence
+601,Hyundai,Grand i10,5,Traction,44000,11.2021,Autres,48000,1197.0,Essence
+602,Haval,H6,5,Traction,105000,8.2019,SUV/4x4,76000,1499.0,Essence
+603,Dongfeng,S50,6,Traction,120000,12.2019,Berline,39000,1500.0,Essence
+604,Dongfeng,S50,6,Traction,88000,6.202,Berline,42200,1500.0,Essence
+605,Audi,A3 Berline,5,Propulsion,170000,1.2015,Berline,57000,1197.0,Essence
+606,Audi,A4,7,Traction,235000,12.2014,Berline,47000,1798.0,Essence
+607,Ford,Ranger,7,Intégrale,80000,12.2018,Pick up,128000,2200.0,Diesel
+608,MG,ZS,7,Traction,75000,1.2019,SUV/4x4,64500,1500.0,Essence
+609,BMW,Série 3,7,Traction,130000,6.2019,Berline,110000,899.0,Essence
+610,Mercedes-Benz,Classe C,9,Traction,150000,5.201,Berline,55000,899.0,Essence
+611,Peugeot,301,5,Traction,86000,5.2019,Berline,27500,899.0,Essence
+612,Honda,Accord,18,Traction,44000,1.2011,SUV/4x4,75000,2011.0,Essence
+613,Volkswagen,Golf 7,5,Traction,120000,8.2017,Citadine,61500,1198.0,Essence
+614,Porsche,Macan,17,Intégrale,10000,1.2022,SUV/4x4,365000,1984.0,Essence
+615,Volkswagen,Tiguan,8,Traction,185000,9.2017,SUV/4x4,73000,1400.0,Essence
+616,Mercedes-Benz,Classe A,5,Traction,200000,3.2014,Citadine,56000,1498.0,Diesel
+617,BMW,Série 4 Gran Coupé,10,Intégrale,119000,4.2016,Coupé,147000,2000.0,Essence
+618,Seat,Leon,6,Traction,112000,10.2015,Autres,60000,1197.0,Essence
+619,Mercedes-Benz,CLA,7,Intégrale,52000,7.2019,Berline,158000,1330.0,Essence
+620,MG,5,7,Traction,21000,9.2022,Berline,60500,1499.0,Essence
+621,BMW,Série 1,6,Traction,183000,8.2012,Compacte,47000,2000.0,Essence
+622,Haval,H6,8,Traction,18000,4.2022,SUV/4x4,117000,1500.0,Essence
+623,Volkswagen,Polo,4,Traction,270000,7.2004,Utilitaire,16500,1600.0,Essence
+624,Volkswagen,Golf 7,6,Traction,43009,12.2019,Berline,87000,3000.0,Essence
+625,KIA,Sportage,8,Propulsion,150000,10.2019,Utilitaire,89000,1600.0,Essence
+626,Opel,Adam,7,Traction,96000,3.2014,Compacte,45500,1229.0,Essence
+627,KIA,Picanto,5,Propulsion,120000,2.2014,Citadine,33000,1200.0,Essence
+628,KIA,Picanto,4,Propulsion,50000,8.202,Citadine,39000,1200.0,Essence
+629,BMW,X1,9,Traction,180000,1.2011,SUV/4x4,58000,1800.0,Essence
+630,Land Rover,Range Rover Sport,13,Intégrale,174000,6.2008,Autres,130000,2700.0,Diesel
+631,Mercedes-Benz,GLE Coupé,19,Traction,80000,3.2017,SUV/4x4,420000,3500.0,Diesel
+632,BMW,Série 4 Coupé,14,Propulsion,130000,10.2014,Coupé,160000,2800.0,Essence
+633,Citroën,C4 Cactus,4,Propulsion,110000,10.2016,Citadine,45000,1200.0,Essence
+634,Seat,Ibiza,5,Propulsion,150000,1.2018,Citadine,42000,1400.0,Essence
+635,BMW,Série 3,8,Propulsion,90000,1.2017,Berline,105000,1800.0,Essence
+636,Mercedes-Benz,Classe C,9,Propulsion,130000,8.2013,Berline,70000,1800.0,Essence
+637,Ford,Fiesta,5,Traction,123000,12.2016,Citadine,35800,1242.0,Essence
+638,Nissan,Qashqai,6,Traction,124000,4.2019,SUV/4x4,85000,1500.0,Diesel
+639,Mercedes-Benz,Classe A,6,Traction,25000,4.2021,Compacte,160000,1398.0,Hybride essence
+640,Mazda,2,6,Traction,60000,10.2018,Compacte,45000,1496.0,Essence
+641,Hyundai,Grand Santa Fe,12,Intégrale,107000,10.2018,SUV/4x4,135000,2100.0,Diesel
+642,Renault,Megane Sedan,7,Traction,14000,2.2019,Berline,75000,1297.0,Essence
+643,Fiat,Doblo,6,Traction,33000,7.2021,Monospace,56000,1368.0,Essence
+644,BMW,Série 2 Active Tourer,7,Traction,142000,6.2015,Berline,78800,1500.0,Essence
+645,Mercedes-Benz,Classe A,5,Traction,180000,2.2014,Berline,59800,1461.0,Diesel
+646,Chery,Tiggo 2,6,Propulsion,106000,3.2021,SUV/4x4,45000,1400.0,Essence
+647,Seat,Ibiza,6,Traction,100000,8.202,Compacte,69500,1595.0,Essence
+648,Peugeot,3008,7,Traction,86000,1.2012,SUV/4x4,42000,1600.0,Essence
+649,Suzuki,Dzire,5,Traction,104000,1.2021,Berline,38500,1200.0,Essence
+650,KIA,Sorento,12,Intégrale,230000,10.2013,SUV/4x4,67000,2200.0,Diesel
+651,Volkswagen,Polo,4,Traction,26000,8.2021,Compacte,56000,999.0,Essence
+652,BAIC YX,Kenbo S2,7,Propulsion,51000,1.2018,SUV/4x4,42800,1498.0,Essence
+653,BMW,Série 1,8,Traction,40000,5.202,Compacte,135000,1600.0,Essence
+654,Seat,Leon,6,Traction,60000,8.2019,Compacte,61000,1200.0,Essence
+655,Hyundai,Grand i10,5,Traction,52000,3.2021,Compacte,53500,1200.0,Essence
+656,Citroën,C4,6,Traction,94000,12.2017,Compacte,42000,1199.0,Essence
+657,Suzuki,SJ Samurai,5,Propulsion,440000,2.1985,SUV/4x4,19000,1300.0,Essence
+658,MG,GT,6,Intégrale,220000,12.2017,Autres,25000,900.0,Essence
+659,Volkswagen,Golf 7,6,Traction,126800,12.2018,Compacte,74000,1197.0,Essence
+660,Dacia,Sandero,5,Propulsion,118000,8.2021,Citadine,36000,999.0,Essence
+661,Peugeot,208,5,Traction,186000,6.2014,Compacte,29800,1200.0,Essence
+662,Citroën,C3,4,Traction,195000,9.2006,Citadine,19500,1100.0,Essence
+663,Renault,Clio,5,Traction,67000,1.2021,Coupé,45500,1200.0,Essence
+664,Volkswagen,Passat,7,Traction,67000,6.2018,Berline,76000,1400.0,Essence
+665,BMW,Série 1,7,Propulsion,181800,12.2004,Compacte,29000,1596.0,Essence
+666,Renault,Kwid Populaire,4,Traction,62000,4.2022,Citadine,35000,899.0,Essence
+667,Seat,Ibiza,6,Traction,70568,12.202,Citadine,47000,1000.0,Essence
+668,Volkswagen,Polo,5,Traction,112000,2.202,Citadine,57000,1599.0,Diesel
+669,Peugeot,208,5,Traction,158000,1.2021,Citadine,45500,1599.0,Diesel
+670,Volkswagen,Golf 7,6,Traction,158000,10.2019,Citadine,86000,1599.0,Diesel
+671,Toyota,RAV 4,9,Traction,128000,1.2018,SUV/4x4,98000,1988.0,Essence
+672,Mercedes-Benz,Classe C,6,Traction,88000,6.2021,Berline,149000,1599.0,Diesel
+673,Peugeot,3008,6,Traction,148000,10.2019,SUV/4x4,79000,1199.0,Essence
+674,Mercedes-Benz,CLA,8,Traction,89000,1.2021,Berline,169000,1599.0,Essence
+675,KIA,Rio 5p,5,Traction,108000,1.2021,Citadine,56000,1199.0,Essence
+676,Mercedes-Benz,Classe C,9,Traction,260000,2.2014,Berline,62000,1599.0,Essence
+677,Mercedes-Benz,CLA,6,Traction,138000,8.202,Coupé,139000,1599.0,Diesel
+678,Nissan,Pathfinder,12,Intégrale,400000,11.2013,SUV/4x4,57000,2500.0,Diesel
+679,Land Rover,Range Rover,32,Intégrale,55000,4.201,SUV/4x4,189000,4197.0,Essence
+680,Mercedes-Benz,Classe A,7,Traction,126000,1.2019,Berline,135000,1300.0,Diesel
+681,Chery,Tiggo 7 Pro,9,Traction,70000,2.2022,SUV/4x4,80000,1400.0,Essence
+682,Citroën,Berlingo Multispace,5,Traction,150000,1.2016,Monospace,55000,1500.0,Diesel
+683,Peugeot,2008 GT,6,Traction,125000,5.2018,SUV/4x4,65000,1200.0,Essence
+684,Toyota,Prado,9,Traction,174000,10.2012,SUV/4x4,155000,3000.0,Diesel
+685,Mercedes-Benz,Classe C,10,Traction,12000,4.2023,Berline,249000,1400.0,Hybride essence
+686,Mercedes-Benz,Classe C,6,Traction,150000,3.2019,Berline,150000,1600.0,Diesel
+687,Audi,Q5,10,Traction,176000,1.2015,SUV/4x4,115000,2000.0,Diesel
+688,Porsche,Macan,23,Traction,121000,1.2015,SUV/4x4,225000,3000.0,Essence
+689,Iveco,Daily Double Cabine,10,Traction,11000,11.2019,Utilitaire,105000,3000.0,Diesel
+690,KIA,Rio 5p,5,Traction,34000,6.2022,Berline,64000,1200.0,Essence
+691,Volkswagen,Passat CC,10,Traction,167000,7.2014,Berline,55000,1800.0,Essence
+692,Nissan,Qashqai,6,Traction,99000,5.2017,SUV/4x4,65000,1200.0,Essence
+693,Hyundai,Grand i10,5,Traction,35000,10.2022,Berline,49000,1200.0,Essence
+694,BMW,Série 3,7,Traction,112000,3.2013,Berline,65000,1600.0,Essence
+695,Volkswagen,Golf 8,8,Traction,20000,3.2022,Berline,135000,1500.0,Essence
+696,Mercedes-Benz,Classe C,9,Traction,5000,4.2022,Berline,195000,1500.0,Hybride essence
+697,Volkswagen,Passat,6,Traction,264000,12.2007,Berline,36500,1900.0,Diesel
+698,Nissan,Qashqai,6,Traction,145000,2.2017,SUV/4x4,65000,1200.0,Essence
+699,Renault,Captur,5,Traction,100000,8.2018,SUV/4x4,65000,1500.0,Diesel
+700,BMW,X1,9,Traction,220000,9.2014,SUV/4x4,72000,2000.0,Essence
+701,KIA,Picanto,4,Traction,0,3.2024,Berline,63000,1200.0,Essence
+702,Volkswagen,T-roc,6,Traction,49000,7.202,SUV/4x4,110000,1200.0,Essence
+703,Volkswagen,Golf 7,6,Traction,90000,6.2018,Berline,79000,1000.0,Essence
+704,KIA,Picanto Populaire,4,Traction,40000,8.202,Citadine,38600,1000.0,Essence
+705,Seat,Ibiza,4,Traction,74000,3.2021,Citadine,60000,999.0,Essence
+706,BMW,Série 5,10,Propulsion,39000,2.2022,Berline,245000,1600.0,Essence
+707,KIA,Rio Berline,6,Traction,95000,12.2019,Berline,56000,1444.0,Essence
+708,BMW,Série 7,15,Propulsion,186000,1.2016,Berline,220000,3000.0,Diesel
+709,Haval,H2,9,Propulsion,196000,4.2017,SUV/4x4,50000,1500.0,Essence
+710,Mercedes-Benz,Classe C,11,Propulsion,36000,12.2018,Berline,185000,1497.0,Hybride essence
+711,Mini,3 portes,7,Traction,141000,9.2013,Citadine,43000,1598.0,Essence
+712,Mercedes-Benz,Classe C,8,Propulsion,73000,10.2018,Berline,150000,1595.0,Essence
+713,Land Rover,Range Rover Velar,16,Intégrale,286000,5.2019,SUV/4x4,200000,1997.0,Essence
+714,KIA,Picanto,4,Traction,120000,2.201,Citadine,25000,1086.0,Essence
+715,Nissan,Qashqai,5,Traction,138000,2.2019,SUV/4x4,75000,1499.0,Diesel
+716,KIA,Rio 5p,5,Traction,68000,2.2018,Citadine,43500,1199.0,Essence
+717,Volkswagen,Golf 7,6,Traction,200000,2.2019,Citadine,68500,1599.0,Diesel
+718,Fiat,Fiorino,5,Traction,58000,10.2022,Monospace,39500,1299.0,Diesel
+719,Volkswagen,Passat,6,Traction,178000,2.2016,Berline,63000,1599.0,Diesel
+720,Peugeot,3008,6,Traction,158000,10.2019,SUV/4x4,76000,1599.0,Diesel
+721,Peugeot,2008,6,Traction,69000,2.202,SUV/4x4,62000,1499.0,Diesel
+722,BMW,Série 3,10,Traction,28000,6.202,Berline,245000,1999.0,Essence
+723,Mercedes-Benz,GLC Coupé,12,Traction,64000,7.202,SUV/4x4,260000,2000.0,Hybride essence
+724,Volkswagen,Golf 7,5,Traction,145000,6.2015,Compacte,53000,1200.0,Essence
+725,Land Rover,Range Rover Velar,9,Traction,40000,6.2018,SUV/4x4,230000,1999.0,Diesel
+726,Mercedes-Benz,GLA,8,Traction,140000,5.2016,Compacte,105000,1600.0,Essence
+727,Chery,Tiggo 7 Pro,9,Traction,34000,6.2022,SUV/4x4,89000,1498.0,Essence
+728,Audi,TT,13,Intégrale,36000,2.2017,Coupé,120000,1998.0,Essence
+729,Audi,A6,11,Traction,269000,5.201,Berline,42500,1900.0,Essence
+730,Ford,Focus sedan,6,Traction,198000,5.2012,Berline,25000,1598.0,Essence
+731,KIA,Sportage,8,Traction,65000,9.2019,SUV/4x4,95000,1597.0,Essence
+732,Porsche,Cayenne,27,Traction,234000,8.2003,SUV/4x4,45000,4499.0,Essence
+733,BMW,Série 5,10,Traction,33000,6.2022,Berline,260000,1998.0,Diesel
+734,Citroën,C5,9,Traction,260000,2.2011,Berline,26500,1598.0,Essence
+735,Land Rover,Range Rover Sport,17,Traction,82000,6.2019,SUV/4x4,340000,1998.0,Essence
+736,Dacia,Dokker Van,6,Traction,78000,12.2018,Utilitaire,35000,1461.0,Diesel
+737,Mercedes-Benz,ML,15,Traction,266000,7.2006,SUV/4x4,39000,2998.0,Diesel
+738,Nissan,Juke,6,Traction,105000,4.2012,SUV/4x4,42500,1599.0,Essence
+739,Mahindra,KUV 100,5,Traction,1000,12.2023,SUV/4x4,39900,1998.0,Essence
+740,Nissan,Navara,8,Traction,357000,5.2007,Pick up,39000,2499.0,Diesel
+741,Peugeot,5008,9,Traction,120000,5.2019,SUV/4x4,75000,1595.0,Essence
+742,Fiat,Fiorino,5,Traction,115000,10.2018,Utilitaire,27900,1289.0,Diesel
+743,Renault,Megane,7,Traction,144000,11.2018,Citadine,48900,1469.0,Essence
+744,MG,6,9,Traction,20000,8.2021,Berline,85000,1499.0,Essence
+745,KIA,Rio 5p,5,Traction,27000,4.2022,Citadine,70000,1242.0,Essence
+746,Volkswagen,T-roc,6,Traction,52000,10.202,SUV/4x4,89900,999.0,Essence
+747,Volkswagen,Golf 7,5,Traction,191000,4.2015,Citadine,49000,1198.0,Essence
+748,BMW,Série 1,7,Traction,179000,12.2008,Citadine,32900,1597.0,Essence
+749,Volkswagen,Golf 7,5,Traction,170000,4.2013,Citadine,52000,1599.0,Diesel
+750,KIA,Sportage,10,Traction,126000,1.2018,SUV/4x4,115000,1995.0,Diesel
+751,Haval,H6,9,Traction,106000,9.2019,SUV/4x4,79000,1499.0,Essence
+752,Citroën,DS3,5,Traction,187000,12.2013,Citadine,28500,1199.0,Essence
+753,KIA,Sportage,10,Traction,308000,8.2017,SUV/4x4,85000,1995.0,Diesel
+754,Renault,Megane,5,Traction,133000,9.2017,Citadine,62000,1461.0,Diesel
+755,Peugeot,308,6,Traction,140000,11.2019,Citadine,42000,1199.0,Essence
+756,Volkswagen,Golf 8,6,Traction,25000,12.202,Citadine,99900,999.0,Essence
+757,Peugeot,3008,7,Traction,100000,5.2019,SUV/4x4,79000,1199.0,Essence
+758,BAIC YX,Kenbo S2,7,Traction,93000,4.2018,SUV/4x4,36000,1498.0,Essence
+759,Mercedes-Benz,Classe C,10,Propulsion,199000,10.201,Berline,49900,2199.0,Diesel
+760,Volkswagen,Golf 7,5,Traction,182000,7.2014,Citadine,55000,1197.0,Essence
+761,Dongfeng,AX4,7,Traction,31000,11.2021,SUV/4x4,64000,1499.0,Essence
+762,Peugeot,5008,6,Traction,138000,11.2019,SUV/4x4,95000,1499.0,Diesel
+763,Seat,Leon,6,Traction,118000,10.2017,Citadine,62000,1197.0,Essence
+764,Toyota,Hilux Double Cabine,8,Traction,1000,8.2023,Pick up,210000,2393.0,Diesel
+765,BMW,Série 3,7,Traction,152000,5.2016,Berline,85000,1499.0,Essence
+766,Isuzu,D-Max Double Cabine,8,Traction,119000,6.2017,Pick up,128000,2499.0,Diesel
+767,Volkswagen,Golf 8,8,Traction,28000,7.202,Citadine,123000,1498.0,Hybride essence
+768,Mercedes-Benz,CLA,7,Traction,59000,12.2019,Berline,149500,1299.0,Essence
+769,Suzuki,Dzire,5,Traction,114000,1.2021,Berline,38500,1197.0,Essence
+770,Volkswagen,Passat,6,Traction,268000,3.2009,Berline,34000,1896.0,Diesel
+771,KIA,Rio 5p,5,Traction,77000,7.202,Citadine,55000,1248.0,Essence
+772,Audi,A6,10,Traction,213000,4.2011,Berline,39000,1999.0,Essence
+773,Peugeot,508,9,Traction,187000,6.2012,Berline,33900,1598.0,Essence
+774,Wallyscar,Iris,4,Traction,39000,2.2018,SUV/4x4,35500,1199.0,Essence
+775,Chery,QQ,4,Traction,72000,6.2019,Citadine,23900,998.0,Essence
+776,BMW,Série 1,7,Traction,266000,12.2008,Citadine,30900,1598.0,Essence
+777,Haval,H6,9,Traction,100000,2.2017,SUV/4x4,65000,1497.0,Essence
+778,Volkswagen,Amarok,10,Traction,57000,12.2022,Pick up,205000,2967.0,Diesel
+779,Toyota,Land Cruiser,10,Traction,334000,1.1985,SUV/4x4,65000,2496.0,Diesel
+780,Seat,Ateca,8,Traction,36000,5.2021,SUV/4x4,105000,1395.0,Essence
+781,Volkswagen,Golf 8,6,Traction,13000,9.202,Citadine,109000,999.0,Essence
+782,Haval,H6,9,Traction,45000,2.202,SUV/4x4,85000,1499.0,Essence
+783,Renault,Symbol,5,Traction,74000,1.2021,Berline,39900,999.0,Essence
+784,Alfa Romeo,Giulietta,7,Traction,100000,1.2018,Citadine,42000,1368.0,Essence
+785,Citroën,C4,6,Traction,126000,2.2018,Citadine,39000,1199.0,Essence
+786,BAIC YX,Kenbo S2,7,Traction,159000,5.2018,SUV/4x4,31500,1498.0,Essence
+787,Citroën,C3,4,Traction,98000,3.2017,Citadine,39500,1198.0,Essence
+788,Seat,Ibiza,4,Traction,86000,8.2021,Citadine,49900,999.0,Essence
+789,Mitsubishi,Pajero,15,Traction,61000,6.2016,SUV/4x4,180000,3497.0,Essence
+790,Chery,Tiggo 3X,6,Traction,15000,6.2022,SUV/4x4,62000,998.0,Essence
+791,Mercedes-Benz,Classe C,8,Traction,69000,8.2016,Berline,99000,1599.0,Essence
+792,Nissan,Juke,6,Traction,91000,2.2015,SUV/4x4,47900,1242.0,Essence
+793,Land Rover,Range Rover Sport,28,Traction,116000,12.202,SUV/4x4,535000,2996.0,Hybride essence
+794,Jaguar,XJ,16,Traction,163000,6.2014,Berline,129000,1999.0,Essence
+795,KIA,Sportage,7,Traction,134000,8.2019,SUV/4x4,99500,1598.0,Diesel
+796,Audi,A3 Berline,6,Traction,196000,12.2015,Berline,65000,1197.0,Essence
+797,Audi,A4,11,Traction,241000,11.2008,Berline,50000,1984.0,Essence
+798,Mercedes-Benz,Classe C,9,Traction,185000,12.2009,Berline,44500,1598.0,Essence
+799,Volkswagen,Golf 6,5,Traction,206000,11.2011,Citadine,39500,1199.0,Essence
+800,BMW,Série 1,7,Traction,140000,3.2016,Citadine,68000,1498.0,Essence
+801,Skoda,Kamiq,6,Traction,54000,2.2021,SUV/4x4,79000,1598.0,Essence
+802,Volkswagen,Jetta,7,Traction,144000,1.2009,Berline,29900,1598.0,Essence
+803,Peugeot,508,7,Traction,134000,8.2012,Berline,32900,1598.0,Essence
+804,Mercedes-Benz,CLK,10,Traction,179000,8.2004,Berline,36500,1799.0,Essence
+805,MG,ZS,7,Traction,97000,6.202,SUV/4x4,65000,1498.0,Essence
+806,Mercedes-Benz,Classe A,6,Traction,140000,6.2013,Citadine,53900,1598.0,Essence
+807,KIA,Rio 5p,5,Traction,33000,10.2021,Citadine,62900,1198.0,Essence
+808,Suzuki,Dzire,5,Traction,82000,12.2019,Berline,36500,1198.0,Essence
+809,Citroën,C3,4,Traction,139000,5.2018,Citadine,35500,1199.0,Essence
+810,Volkswagen,Polo,5,Traction,225000,4.2012,Citadine,30900,1199.0,Essence
+811,Fiat,Ducato,8,Traction,218000,3.2011,Autres,32500,2299.0,Diesel
+812,Peugeot,3008,7,Traction,230000,10.201,Citadine,35000,1599.0,Essence
+813,Volkswagen,Transporter Combi 6.1,7,Traction,876000,10.2003,Autres,22000,1998.0,Diesel
+814,Suzuki,Baleno,5,Traction,98000,4.2017,Citadine,45900,1424.0,Essence
+815,KIA,Rio 5p,5,Traction,13000,2.2022,Citadine,69500,1199.0,Essence
+816,Mercedes-Benz,Classe E,11,Traction,176000,9.2012,Berline,83000,1798.0,Essence
+817,Suzuki,Vitara,6,Traction,83000,10.2018,SUV/4x4,64000,1599.0,Essence
+818,Nissan,Qashqai,6,Traction,71000,3.2018,SUV/4x4,74000,1199.0,Essence
+819,Dacia,Dokker Van,6,Traction,91000,11.2018,Utilitaire,34500,1498.0,Diesel
+820,Volkswagen,Polo,4,Traction,133000,11.2018,Citadine,41900,999.0,Essence
+821,KIA,Picanto,5,Traction,118000,6.202,Citadine,39500,1199.0,Essence
+822,Mazda,CX-9,15,Traction,92000,7.2017,SUV/4x4,89900,2498.0,Essence
+823,Citroën,DS3,5,Traction,123000,10.2013,Citadine,29900,1199.0,Essence
+824,Citroën,Berlingo Utilitaire,5,Traction,121000,6.202,Utilitaire,44000,1598.0,Diesel
+825,Volkswagen,Golf 6,5,Traction,354000,5.2011,Citadine,34000,1599.0,Diesel
+826,Renault,Clio Campus,4,Traction,189000,8.2007,Citadine,25000,1198.0,Essence
+827,Peugeot,3008,9,Traction,67000,11.2019,SUV/4x4,95000,1599.0,Essence
+828,Ford,Ka,4,Traction,128000,10.2014,Citadine,31000,1198.0,Essence
+829,BMW,Série 3,10,Traction,194000,5.2009,Cabriolet,49000,1998.0,Essence
+830,Volvo,S80,13,Traction,171000,8.2008,Berline,30000,1998.0,Essence
+831,Citroën,DS5,6,Traction,205000,11.2012,Citadine,49000,1560.0,Diesel
+832,Skoda,Fabia,4,Traction,103000,2.202,Citadine,37000,999.0,Essence
+833,Fiat,Fiorino,5,Traction,13000,10.2023,Utilitaire,37800,1299.0,Diesel
+834,Nissan,Patrol,9,Traction,132000,10.1992,SUV/4x4,23000,2799.0,Diesel
+835,Suzuki,Swift,5,Traction,86000,11.2021,Citadine,37500,1199.0,Essence
+836,Ford,Explorer,23,Traction,75000,9.2004,SUV/4x4,55000,3999.0,Essence
+837,BMW,Série 5,12,Traction,207000,12.201,Berline,75000,2489.0,Essence
+838,Renault,Clio Campus,4,Traction,154000,3.2011,Citadine,24900,1198.0,Essence
+839,Chevrolet,Cruze,7,Traction,104000,4.2017,Berline,36000,1598.0,Essence
+840,Volkswagen,Golf 7,6,Traction,67000,9.202,Citadine,77500,1198.0,Essence
+841,Seat,Ibiza,4,Traction,169000,6.2016,Citadine,37900,999.0,Essence
+842,KIA,Sorento,12,Traction,232000,7.2013,SUV/4x4,67000,2199.0,Diesel
+843,Peugeot,301,5,Traction,116000,12.2018,Berline,28900,1198.0,Essence
+844,Mini,Cooper S,7,Traction,83000,5.2011,Citadine,45000,1598.0,Essence
+845,Toyota,Aygo,4,Traction,87000,3.2017,Citadine,31900,999.0,Essence
+846,Hyundai,Centennial,16,Traction,109000,10.2007,Berline,65000,4498.0,Essence
+847,MG,ZS,7,Traction,93000,4.2019,SUV/4x4,59000,1498.0,Essence
+848,Fiat,Fiorino,5,Traction,91000,5.2021,Utilitaire,35000,1298.0,Diesel
+849,Nissan,Qashqai,6,Traction,117000,11.2015,SUV/4x4,57000,1198.0,Essence
+850,Honda,CR-V,11,Traction,132000,2.2019,SUV/4x4,99000,1498.0,Essence
+851,Mercedes-Benz,Classe C coupé,9,Traction,244000,8.2012,Coupé,60000,1798.0,Essence
+852,KIA,Rio 5p,5,Traction,47000,12.2021,Citadine,54900,1198.0,Essence
+853,Mahindra,KUV 100,5,Traction,57000,1.2019,SUV/4x4,31900,1198.0,Essence
+854,Mercedes-Benz,CLA,7,Traction,59000,1.2022,Berline,168832,1298.0,Essence
+855,Mercedes-Benz,Classe C coupé,9,Traction,170000,8.2013,Coupé,74000,899.0,Essence
+856,Seat,Arona,6,Traction,41000,3.2019,SUV/4x4,67000,1599.0,Essence
+857,Haval,H2,9,Traction,67000,12.2017,SUV/4x4,62000,1500.0,Essence
+858,Seat,Ibiza,6,Traction,53000,4.202,Coupé,65000,1498.0,Essence
+859,Citroën,C1,4,Traction,138000,3.2011,Citadine,23000,998.0,Essence
+860,KIA,Sportage,8,Traction,73000,12.2019,SUV/4x4,87000,1591.0,Essence
+861,KIA,Picanto,4,Traction,0,12.2021,Citadine,45000,989.0,Essence
+862,Volkswagen,Passat,8,Traction,144000,7.2019,Berline,89000,1395.0,Essence
+863,Mercedes-Benz,Classe A,6,Traction,131000,4.2015,Coupé,67000,1595.0,Essence
+864,Haval,H6,9,Traction,124000,4.2021,SUV/4x4,89000,1497.0,Essence
+865,KIA,Picanto,4,Traction,89000,6.2019,Citadine,42000,1197.0,Essence
+866,Renault,Megane,8,Traction,59000,2.2018,Compacte,89000,1490.0,Essence
+867,Citroën,Jumpy Fourgon,6,Traction,173000,12.2018,Utilitaire,69000,1597.0,Diesel
+868,Mercedes-Benz,Classe A,7,Traction,3,7.2022,Coupé,150000,1332.0,Essence
+869,Renault,Megane,6,Traction,83000,4.2019,Coupé,59000,1490.0,Diesel
+870,Jeep,Wrangler,20,Intégrale,90000,6.2018,SUV/4x4,220000,3604.0,Essence
+871,Audi,A4,8,Traction,143000,5.2016,Berline,78000,1395.0,Essence
+872,Ford,Ranger,7,Intégrale,90000,10.202,SUV/4x4,139000,2198.0,Diesel
+873,Mercedes-Benz,GLC,10,Intégrale,89000,7.2018,SUV/4x4,245000,2143.0,Diesel
+874,KIA,Cee'd,7,Traction,161000,9.2011,Citadine,43000,1582.0,Diesel
+875,Renault,Kadjar,7,Traction,114000,6.2018,SUV/4x4,63000,1197.0,Essence
+876,Audi,Q3,8,Traction,120000,12.2016,SUV/4x4,84000,1493.0,Essence
+877,KIA,Sportage,11,Traction,76000,9.202,SUV/4x4,100000,1995.0,Essence
+878,Jaguar,XE,9,Traction,136000,4.2017,Berline,130000,1995.0,Diesel
+879,Land Rover,Range Rover Sport,24,Intégrale,79000,4.2016,SUV/4x4,249000,2995.0,Essence
+880,Land Rover,Range Rover Sport,24,Intégrale,90000,9.2016,SUV/4x4,259000,2995.0,Essence
+881,Mercedes-Benz,Classe A,7,Traction,67000,8.2019,Coupé,96000,1332.0,Essence
+882,Toyota,Prado,11,Intégrale,200000,10.2015,SUV/4x4,185000,2999.0,Diesel
+883,Audi,A5 Sportback,8,Traction,142000,9.2018,Berline,127000,1984.0,Essence
+884,Jeep,Renegade,8,Traction,122000,6.2018,SUV/4x4,68000,1368.0,Essence
+885,Ssangyong,Tivoli,8,Traction,24000,7.202,SUV/4x4,75000,1497.0,Essence
+886,Peugeot,2008,6,Traction,46000,5.2021,SUV/4x4,82000,1199.0,Essence
+887,KIA,Niro Hybride,5,Traction,103000,6.2021,SUV/4x4,95000,1580.0,Hybride essence
+888,BMW,Série 7,31,Propulsion,146000,7.201,Coupé,89000,4395.0,Essence
+889,Renault,Koleos,8,Traction,96000,12.2014,SUV/4x4,59000,1999.0,Diesel
+890,Ssangyong,Tivoli,8,Traction,160000,7.2017,SUV/4x4,47000,1497.0,Essence
+891,Suzuki,Jimny,6,Intégrale,59300,7.2021,SUV/4x4,100000,1462.0,Essence
+892,Toyota,Prado,11,Intégrale,263000,4.2007,SUV/4x4,115000,2982.0,Diesel
+893,Citroën,C5,9,Traction,132000,7.2013,Berline,36000,1598.0,Essence
+894,BMW,Série 5,10,Propulsion,200000,6.2011,Berline,78000,1995.0,Diesel
+895,Mercedes-Benz,CLA,8,Traction,150000,6.2014,Berline,77000,1332.0,Essence
+896,Ford,Focus,7,Traction,130000,12.2017,Berline,34000,1496.0,Essence
+897,Ssangyong,Actyon Sports,7,Intégrale,231000,12.2011,Pick up,30000,1998.0,Diesel
+898,Land Rover,Discovery Sport,15,Traction,34000,9.2016,SUV/4x4,188000,1999.0,Essence
+899,Volkswagen,Touareg,12,Traction,189000,7.2016,SUV/4x4,100000,2967.0,Diesel
+900,Volkswagen,Scirocco,9,Traction,165000,5.201,Coupé,35000,1390.0,Essence
+901,Fiat,Doblo,5,Intégrale,99000,12.2019,Utilitaire,29000,899.0,Diesel
+902,Renault,Megane Sedan,7,Traction,37000,7.2019,Berline,70000,1300.0,Essence
+903,Mercedes-Benz,Classe C,8,Traction,100000,8.2016,Berline,115000,1800.0,Essence
+904,BMW,Série 1,7,Propulsion,18000,3.2016,Citadine,95000,1493.0,Essence
+905,Skoda,Octavia,8,Traction,128000,5.2017,Berline,48000,1395.0,Essence
+906,Toyota,Hilux Double Cabine,8,Intégrale,22000,8.2021,SUV/4x4,120000,2400.0,Diesel
+907,Peugeot,107,4,Traction,149000,2.2012,Compacte,26500,899.0,Essence
+908,Porsche,Panamera,30,Intégrale,126000,12.2009,Berline,230000,899.0,Essence
+909,BMW,Série 4 Gran Coupé,7,Propulsion,57000,8.202,Berline,143000,1499.0,Essence
+910,Mercedes-Benz,GLC Coupé,10,Intégrale,32000,9.2021,SUV/4x4,248000,1999.0,Hybride rechargeable essence
+911,BMW,X1,8,Traction,87000,7.202,SUV/4x4,134000,1499.0,Essence
+912,BMW,X1,8,Traction,85000,5.2018,SUV/4x4,93000,1399.0,Essence
+913,BMW,X4,10,Traction,73000,3.202,SUV/4x4,268000,1999.0,Essence
+914,Jaguar,F-Pace,16,Intégrale,27000,3.2021,SUV/4x4,269000,1999.0,Essence
+915,Toyota,Hilux Double Cabine,8,Intégrale,140000,7.2019,Pick up,159000,2400.0,Diesel
+916,Mercedes-Benz,Classe C,10,Propulsion,46000,1.202,Berline,154500,1564.0,Hybride essence
+917,Peugeot,3008,7,Traction,54000,1.2021,SUV/4x4,89500,1199.0,Essence
+918,Porsche,Panamera,30,Propulsion,96000,2.2011,Berline,169000,4800.0,Essence
+919,BMW,Série 3,7,Propulsion,86000,8.2018,Berline,117000,1489.0,Essence
+920,Toyota,Hilux Double Cabine,8,Intégrale,140000,7.2019,Pick up,159000,2400.0,Essence
+921,Audi,A4,8,Traction,125000,7.2014,Berline,46500,1400.0,Essence
+922,Mercedes-Benz,CLA,7,Propulsion,80000,8.2019,Berline,158000,1300.0,Essence
+923,Hyundai,Tucson,7,Traction,114000,12.2019,SUV/4x4,99500,1600.0,Diesel
+924,Mercedes-Benz,Classe E,9,Intégrale,69000,5.2021,Berline,215000,1989.0,Diesel
+925,Porsche,Cayenne Coupé,25,Intégrale,37000,4.202,SUV/4x4,380000,2999.0,Essence
+926,Mercedes-Benz,Classe C,7,Propulsion,175000,7.2011,Berline,58000,2100.0,Diesel
+927,KIA,Rio 5p,5,Traction,37000,3.2021,Citadine,62500,1200.0,Essence
+928,Mercedes-Benz,CLA,7,Traction,44000,1.2023,Berline,173500,1398.0,Essence
+929,Mercedes-Benz,Classe A,6,Traction,120000,7.2013,Compacte,68500,1600.0,Essence
+930,Peugeot,3008,7,Intégrale,3000,1.2024,SUV/4x4,137500,1999.0,Essence
+931,Mercedes-Benz,Classe E,10,Propulsion,112000,7.2016,Berline,137000,2000.0,Essence
+932,Mercedes-Benz,Classe E coupé,10,Propulsion,80000,7.2018,Coupé,174000,2000.0,Essence
+933,Fiat,500,6,Traction,16000,1.2023,Citadine,59500,1000.0,Hybride essence
+934,Mercedes-Benz,CLA,6,Traction,30000,1.2022,Berline,158000,1300.0,Essence
+935,Nissan,Qashqai,8,Traction,85000,5.2019,SUV/4x4,79000,1333.0,Essence
+936,KIA,Sportage,11,Intégrale,79000,3.202,SUV/4x4,107000,1600.0,Essence
+937,Volkswagen,Golf 8,5,Traction,41500,1.2021,Berline,86500,1000.0,Essence
+938,Volkswagen,T-roc,6,Traction,69500,1.202,SUV/4x4,84500,1000.0,Essence
+939,Volkswagen,Golf 7,5,Traction,47500,1.202,Berline,72000,1000.0,Essence
+940,Opel,Corsa 3p,5,Traction,88000,8.2014,Citadine,22500,1229.0,Essence
+941,MG,GS,9,Traction,80000,6.2017,SUV/4x4,55000,899.0,Essence
+942,Fiat,Doblo Maxi,5,Traction,254000,10.2018,Utilitaire,28500,899.0,Diesel
+943,Hyundai,Kona,7,Traction,56000,9.2018,SUV/4x4,72500,899.0,Essence
+944,Mercedes-Benz,Classe C,7,Traction,140000,7.2016,Berline,115000,899.0,Diesel
+945,Jaguar,XE,10,Traction,70000,6.202,Berline,198000,899.0,Diesel
+946,Porsche,Macan,26,Traction,52000,9.2019,SUV/4x4,355000,900.0,Essence
+947,Peugeot,3008,9,Traction,92000,1.2018,SUV/4x4,86000,900.0,Essence
+948,Mercedes-Benz,Classe S,15,Traction,111000,6.2008,Berline,105000,900.0,Diesel
+949,Hyundai,Tucson,8,Traction,111000,4.2019,SUV/4x4,92000,899.0,Essence
+950,Cupra,Formentor,8,Traction,19000,10.2022,Berline,155000,899.0,Essence
+951,Mercedes-Benz,Classe E coupé,14,Traction,150000,6.2009,Coupé,68500,899.0,Diesel
+952,Mercedes-Benz,GLA,8,Traction,75000,1.2016,Berline,99500,899.0,Essence
+953,Hyundai,Veloster,8,Traction,153000,2.2014,Autres,36800,1600.0,Essence
+954,Mercedes-Benz,Classe C coupé,8,Propulsion,91000,3.2018,Coupé,138000,1600.0,Essence
+955,Seat,Ibiza,4,Traction,113000,1.2021,Citadine,46500,1000.0,Essence
+956,Mercedes-Benz,Classe C,11,Traction,263000,3.2009,Berline,55000,1800.0,Essence
+957,Mercedes-Benz,Classe C,8,Traction,119000,5.2015,Berline,115000,1600.0,Essence
+958,Audi,A5 Coupé,10,Traction,239000,7.2011,Coupé,53000,1999.0,Essence
+959,Hyundai,Tucson Hybride,7,Traction,51000,11.2021,SUV/4x4,155000,1600.0,Hybride diesel
+960,BMW,Série 3,7,Traction,181000,6.2013,Berline,65000,1600.0,Essence
+961,Land Rover,Range Rover Evoque,8,Traction,128000,3.2015,SUV/4x4,110000,2200.0,Diesel
+962,Mercedes-Benz,Classe A,9,Traction,80000,3.2019,Compacte,138000,1800.0,Essence
+963,BMW,Série 5,9,Traction,119000,3.2016,Berline,115000,1600.0,Essence
+964,BMW,Série 1,6,Propulsion,70000,4.2013,Compacte,62500,1600.0,Diesel
+965,Renault,Megane,7,Propulsion,120000,5.2017,Compacte,52500,1200.0,Essence
+966,Peugeot,3008,9,Traction,60000,11.2017,Citadine,85000,1600.0,Essence
+967,Citroën,Berlingo Multispace,7,Traction,145000,7.2018,Monospace,53000,1600.0,Essence
+968,Seat,Leon,6,Traction,187000,5.2016,Citadine,49000,1200.0,Essence
+969,Volkswagen,Passat,7,Traction,155000,1.2019,Berline,66000,1400.0,Essence
+970,KIA,Picanto,5,Traction,159000,10.2014,Citadine,33000,1200.0,Essence
+971,Volkswagen,Passat,6,Traction,122000,3.2019,Berline,85000,1600.0,Diesel
+972,Land Rover,Range Rover Evoque,15,Traction,138000,4.2016,SUV/4x4,115000,2000.0,Essence
+973,Volkswagen,Golf 7,5,Traction,76000,11.2016,Compacte,67500,1200.0,Essence
+974,Volkswagen,Golf 7,5,Traction,91000,11.2016,Citadine,63500,1200.0,Essence
+975,Hyundai,Grand i10,5,Traction,87000,7.202,Citadine,39000,1200.0,Essence
+976,Citroën,C4 Cactus,5,Traction,106000,11.2016,Citadine,38000,1200.0,Essence
+977,Mercedes-Benz,Classe E,9,Propulsion,192000,11.2003,Berline,36500,2200.0,Diesel
+978,Mercedes-Benz,CLA,8,Propulsion,168000,4.2013,Berline,78000,1600.0,Essence
+979,Lada,Niva,7,Traction,84000,3.2018,SUV/4x4,37000,1700.0,Essence
+980,Renault,Fluence,7,Traction,125000,1.2011,Berline,33500,1600.0,Essence
+981,Volkswagen,Golf 7,6,Traction,136000,3.2018,Citadine,79000,1000.0,Essence
+982,BAIC YX,Kenbo S2,7,Traction,99000,8.2018,Compacte,35500,1500.0,Essence
+983,Volkswagen,Passat CC,12,Traction,195000,6.201,Citadine,39000,2000.0,Essence
+984,Seat,Ibiza,4,Traction,139000,2.202,Citadine,51000,1000.0,Essence
+985,Citroën,C3,4,Traction,119000,4.2018,Citadine,33000,1200.0,Essence
+986,Renault,Clio Campus,5,Traction,146000,6.2011,Coupé,25000,1200.0,Essence
+987,Peugeot,Partner,7,Traction,142000,11.2016,Monospace,44500,1600.0,Essence
+988,Seat,Leon,6,Traction,101000,6.202,Compacte,68000,1199.0,Essence
+989,BMW,Série 1,7,Propulsion,145000,1.2016,Compacte,64000,1499.0,Essence
+990,BMW,Série 3,8,Propulsion,8500,9.2023,Berline,214000,1598.0,Essence
+991,Mercedes-Benz,Classe A,9,Traction,57000,5.2018,Compacte,128000,1332.0,Essence
+992,Hyundai,Genesis,19,Intégrale,116000,12.2018,Berline,106000,3342.0,Essence
+993,Fiat,Palio,5,Traction,220000,2.2004,Citadine,15000,999.0,Essence
+994,Volkswagen,Golf 8,6,Traction,50000,7.2021,Compacte,102000,1000.0,Hybride essence
+995,BMW,Série 3 coupé,9,Propulsion,247000,10.2007,Coupé,39000,1995.0,Essence
+996,Toyota,Verso,11,Traction,35000,5.2022,Monospace,200000,1997.0,Diesel
+997,Mercedes-Benz,Classe C,9,Traction,80000,6.2022,Citadine,215000,1599.0,Essence
+998,Seat,Ateca,8,Traction,60000,4.2022,SUV/4x4,112000,1399.0,Essence
+999,KIA,Sportage,8,Traction,95000,10.2019,SUV/4x4,90000,1599.0,Essence
+1000,Volkswagen,T-roc,6,Traction,87000,1.202,SUV/4x4,85000,999.0,Essence
+1001,Seat,Ibiza,6,Traction,50000,8.202,SUV/4x4,67000,1599.0,Essence
+1002,Mercedes-Benz,CLA,7,Traction,20000,10.202,Citadine,169000,1599.0,Essence
+1003,Great Wall,Poer,11,Traction,9000,7.2022,Pick up,97000,1999.0,Diesel
+1004,Ssangyong,Actyon Sports,7,Traction,200000,7.2017,SUV/4x4,40000,1599.0,Diesel
+1005,Seat,Ibiza,6,Traction,100000,9.202,Citadine,68000,1599.0,Essence
+1006,KIA,Sportage,8,Traction,80000,1.202,SUV/4x4,93000,1699.0,Essence
+1007,Hyundai,Grand i10,5,Traction,54000,4.2021,Citadine,53000,1199.0,Essence
+1008,Mercedes-Benz,Classe C,9,Traction,40000,2.2022,Berline,208000,1500.0,Hybride essence
+1009,Mercedes-Benz,GLA,8,Traction,25000,9.2021,SUV/4x4,185000,1599.0,Essence
+1010,Mercedes-Benz,Classe C,9,Traction,170000,8.2014,Berline,115000,1599.0,Essence
+1011,Mercedes-Benz,GLA,8,Traction,74000,1.2016,SUV/4x4,113000,1595.0,Essence
+1012,KIA,Rio 5p,5,Traction,26000,10.2019,Citadine,57000,1199.0,Essence
+1013,Volkswagen,Golf 7,6,Traction,130000,9.2018,Citadine,80000,1000.0,Essence
+1014,Volkswagen,Tiguan,8,Traction,33000,9.202,SUV/4x4,128000,1599.0,Essence
+1015,Mercedes-Benz,Classe S,19,Traction,170000,7.2008,Berline,78000,3450.0,Essence
+1016,Volkswagen,Golf 7,5,Traction,180000,7.2019,Citadine,64000,1199.0,Essence
+1017,Porsche,Panamera,20,Traction,80000,2.2011,Citadine,188000,3500.0,Essence
+1018,Hyundai,Tucson,8,Traction,16000,7.2023,SUV/4x4,145000,1399.0,Essence
+1019,Seat,Ateca,8,Traction,30000,6.2021,SUV/4x4,109000,1399.0,Essence
+1020,KIA,Rio 5p,5,Traction,70000,1.2021,Citadine,63500,1199.0,Essence
+1021,KIA,Sportage,10,Traction,23000,6.2022,SUV/4x4,143000,1599.0,Essence
+1022,Citroën,Berlingo Utilitaire,5,Traction,170000,5.2018,Utilitaire,37500,1299.0,Diesel
+1023,Seat,Leon,6,Traction,65000,9.202,Citadine,73000,1200.0,Essence
+1024,Haval,Jolion,9,Traction,40000,7.2022,SUV/4x4,87000,1599.0,Essence
+1025,Chery,Tiggo 2,6,Traction,60000,1.202,SUV/4x4,43500,1499.0,Essence
+1026,BMW,Série 3,7,Traction,117000,8.2017,Berline,88000,1499.0,Essence
+1027,KIA,Sportage,6,Traction,120000,9.2021,SUV/4x4,119000,1599.0,Hybride rechargeable diesel
+1028,Volkswagen,Polo,4,Traction,70000,9.2021,Citadine,50000,1000.0,Essence
+1029,Audi,A5 Sportback,10,Traction,200000,9.201,Berline,43500,1999.0,Essence
+1030,Mercedes-Benz,Classe C coupé,9,Traction,40000,9.2019,Coupé,179000,1599.0,Essence
+1031,Peugeot,2008,7,Traction,30000,7.2021,SUV/4x4,92000,1200.0,Essence
+1032,Audi,Q2,8,Traction,30000,10.2019,SUV/4x4,99000,1599.0,Essence
+1033,Hyundai,Grand i10,5,Traction,30000,8.2022,Citadine,53000,1199.0,Essence
+1034,Seat,Leon,8,Traction,70000,1.2022,Citadine,122800,1395.0,Essence
+1035,Toyota,C-HR,6,Traction,50000,2.2021,SUV/4x4,90000,1200.0,Essence
+1036,Mercedes-Benz,Classe C,9,Traction,40000,8.2022,Berline,205000,1600.0,Hybride essence
+1037,Mercedes-Benz,Classe A,6,Traction,49000,7.2019,Citadine,99000,1599.0,Diesel
+1038,BMW,X2,8,Traction,80000,7.2019,SUV/4x4,135000,1666.0,Essence
+1039,Audi,A3 Sportback,7,Traction,70000,6.2019,Citadine,95000,1599.0,Essence
+1040,Chery,Tiggo 7 Pro,9,Traction,20000,7.2022,SUV/4x4,89000,1599.0,Essence
+1041,Hyundai,i20,5,Traction,40000,3.2022,Citadine,63000,1200.0,Essence
+1042,Volkswagen,Golf 7,6,Traction,64000,9.2019,Citadine,74000,1200.0,Essence
+1043,Haval,H6,8,Traction,13000,3.2023,SUV/4x4,119000,1599.0,Essence
+1044,Mercedes-Benz,Classe A,6,Traction,50000,7.2019,Citadine,98000,1599.0,Diesel
+1045,Peugeot,208,4,Traction,60000,9.202,Citadine,35000,1200.0,Essence
+1046,Audi,A5 Cabriolet,10,Traction,120000,5.201,Cabriolet,59000,1599.0,Essence
+1047,Haval,H6,9,Traction,97000,12.2019,SUV/4x4,79500,1599.0,Essence
+1048,Toyota,Corolla,6,Traction,27000,7.2023,Citadine,81000,1399.0,Essence
+1049,Mercedes-Benz,Classe B,8,Traction,99000,4.2014,SUV/4x4,49000,1599.0,Essence
+1050,Renault,Kadjar,7,Traction,60000,6.2019,SUV/4x4,70000,1499.0,Essence
+1051,BMW,X6,15,Traction,270000,8.2008,SUV/4x4,110000,3000.0,Diesel
+1052,Mercedes-Benz,CLA,9,Traction,240000,7.2013,Citadine,79000,2143.0,Diesel
+1053,Volkswagen,Golf 7,6,Traction,70000,8.2018,Citadine,84000,1200.0,Essence
+1054,Mercedes-Benz,Classe C,9,Traction,50000,7.2022,Berline,264200,1399.0,Hybride essence
+1055,Honda,City,7,Traction,50000,11.202,Berline,57000,1599.0,Essence
+1056,Volkswagen,Golf 7,7,Traction,90000,3.2019,Compacte,105000,1400.0,Essence
+1057,BMW,Série 5,11,Traction,200000,1.2016,Berline,89000,1997.0,Essence
+1058,Mercedes-Benz,CLA,7,Traction,30000,12.2021,Citadine,169000,1599.0,Essence
+1059,Land Rover,Discovery,15,Traction,170000,8.2015,SUV/4x4,114000,3000.0,Essence
+1060,Haval,H6,9,Traction,32000,11.2019,SUV/4x4,86000,1599.0,Essence
+1061,Haval,H2,9,Traction,40000,8.2019,SUV/4x4,69000,1599.0,Essence
+1062,Dacia,Duster,7,Traction,117000,6.2017,SUV/4x4,52400,1455.0,Essence
+1063,Nissan,Qashqai,9,Traction,147000,6.2011,SUV/4x4,43000,2000.0,Essence
+1064,BMW,Série 5,10,Traction,160000,8.2015,Berline,108000,1598.0,Essence
+1065,Renault,Kadjar,7,Traction,67000,5.2018,Autres,65000,1200.0,Essence
+1066,Mercedes-Benz,Classe G,47,Intégrale,27000,7.2015,SUV/4x4,650000,5500.0,Essence
+1067,Porsche,Cayenne,23,Traction,58000,5.202,SUV/4x4,430000,3000.0,Essence
+1068,Land Rover,Discovery Sport,15,Traction,115000,11.2014,SUV/4x4,140000,2000.0,Essence
+1069,Peugeot,2008,7,Traction,37000,9.2021,SUV/4x4,90000,1200.0,Essence
+1070,Toyota,Prado,15,Traction,160000,4.2011,SUV/4x4,148000,2700.0,Essence
+1071,Jeep,Wrangler,20,Intégrale,136000,11.2015,SUV/4x4,185000,3600.0,Essence
+1072,KIA,Sportage,11,Traction,93000,12.2019,SUV/4x4,115000,1600.0,Essence
+1073,Mercedes-Benz,Classe C,9,Traction,130000,4.2014,Berline,120000,2200.0,Hybride essence
+1074,Fiat,125,9,Traction,40000,12.197,Autres,35000,1600.0,Diesel
+1075,Mercedes-Benz,Classe A,8,Traction,42000,1.2019,Compacte,145000,1300.0,Essence
+1076,Mercedes-Benz,Classe E,10,Propulsion,60000,1.2021,Berline,285000,2200.0,Essence
+1077,Audi,RS Q3,29,Intégrale,30000,11.2022,SUV/4x4,440000,2500.0,Hybride rechargeable essence
+1078,DS,7 Crossback,10,Traction,1000,12.2023,SUV/4x4,210000,1500.0,Essence
+1079,BMW,Série 1,8,Propulsion,80000,3.202,Compacte,118000,1500.0,Hybride rechargeable essence
+1080,Volkswagen,Golf 7,6,Traction,100000,9.2019,Compacte,79500,1000.0,Essence
+1081,Land Rover,Range Rover Velar,15,Intégrale,2000,8.2023,SUV/4x4,385000,2000.0,Essence
+1082,BMW,Série 3,10,Intégrale,4000,6.2023,Berline,210000,2000.0,Essence
+1083,Volkswagen,Golf 8,8,Traction,8000,12.2022,Compacte,133000,1500.0,Essence
+1084,BMW,Série 4 Gran Coupé,10,Traction,140000,3.2016,Berline,112000,2000.0,Hybride essence
+1085,Audi,A3 Sportback,8,Intégrale,900,11.2023,Berline,145000,1500.0,Essence
+1086,Cupra,Formentor,11,Propulsion,31000,6.2022,Pick up,153500,1998.0,Hybride essence
+1087,BMW,Série 4 Gran Coupé,7,Traction,90000,6.2019,Berline,142000,1498.0,Essence
+1088,Volkswagen,Golf 7,4,Propulsion,83000,8.2018,Utilitaire,74500,999.0,Essence
+1089,Volkswagen,Golf 7,6,Propulsion,99000,11.2019,Utilitaire,87500,999.0,Hybride rechargeable essence
+1090,Nissan,Qashqai,8,Traction,22000,8.2022,SUV/4x4,110000,1009.0,Essence
+1091,KIA,Sportage,7,Propulsion,69000,9.2019,SUV/4x4,113500,1598.0,Essence
+1092,Mercedes-Benz,CLA,9,Propulsion,120000,10.2019,Utilitaire,153500,1598.0,Diesel
+1093,Mercedes-Benz,CLA,7,Traction,163000,7.2014,Citadine,81000,1599.0,Essence
+1094,Dodge,RAM,18,Traction,65000,7.2019,SUV/4x4,212000,6500.0,Essence
+1095,Mahindra,KUV 100,5,Traction,21000,1.202,Coupé,34800,1200.0,Essence
+1096,BMW,Série 2 Active Tourer,7,Traction,114000,9.2016,Autres,68000,1600.0,Essence
+1097,Mercedes-Benz,Classe C,8,Traction,139000,2.2016,Berline,108000,1600.0,Essence
+1098,Mercedes-Benz,ML,12,Intégrale,231000,6.201,SUV/4x4,110000,3000.0,Essence
+1099,Porsche,Panamera,20,Traction,80000,7.2012,Berline,185000,3605.0,Diesel
+1100,Volkswagen,Golf 7,20,Intégrale,57000,8.2019,Autres,190000,1984.0,Essence
+1101,Mercedes-Benz,GLC Coupé,10,Intégrale,22000,5.2022,SUV/4x4,310000,2000.0,Essence
+1102,Volkswagen,Tiguan,8,Traction,69000,8.2021,SUV/4x4,126000,1400.0,Hybride essence
+1103,Land Rover,Range Rover Sport,19,Traction,114000,9.2015,SUV/4x4,240000,3000.0,Essence
+1104,Haval,H6,9,Traction,76000,2.202,SUV/4x4,85000,1500.0,Diesel
